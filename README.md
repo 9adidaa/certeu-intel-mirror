@@ -31,4 +31,18 @@ Cette documentation a pour objectif de fournir une référence technique sur les
 ---
 
 <!-- STATUS:START -->
+Last CI success: 2026-02-13 15:57 UTC
+
+### Validation
+| Check | Status |
+|------|--------|
+| Raw data present | ✅ |
+| CVE index valid | ✅ |
+| First-seen valid | ✅ |
+| Tests executed | **11 passed** |
+
+### Dataset size
+- Advisories: **561**
+- Unique CVEs: **1415**
+
 <!-- STATUS:END -->
