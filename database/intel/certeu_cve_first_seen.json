@@ -15,11 +15,11 @@
     "first_seen_in": "2017-006",
     "first_seen_date": null
   },
-  "CVE-2017-4902": {
+  "CVE-2017-4904": {
     "first_seen_in": "2017-007",
     "first_seen_date": null
   },
-  "CVE-2017-4904": {
+  "CVE-2017-4905": {
     "first_seen_in": "2017-007",
     "first_seen_date": null
   },
@@ -27,7 +27,7 @@
     "first_seen_in": "2017-007",
     "first_seen_date": null
   },
-  "CVE-2017-4905": {
+  "CVE-2017-4902": {
     "first_seen_in": "2017-007",
     "first_seen_date": null
   },
@@ -47,19 +47,7 @@
     "first_seen_in": "2017-012",
     "first_seen_date": null
   },
-  "CVE-2017-1000376": {
-    "first_seen_in": "2017-013",
-    "first_seen_date": null
-  },
-  "CVE-2017-1000365": {
-    "first_seen_in": "2017-013",
-    "first_seen_date": null
-  },
-  "CVE-2017-1000377": {
-    "first_seen_in": "2017-013",
-    "first_seen_date": null
-  },
-  "CVE-2017-1000371": {
+  "CVE-2017-1000367": {
     "first_seen_in": "2017-013",
     "first_seen_date": null
   },
@@ -67,11 +55,7 @@
     "first_seen_in": "2017-013",
     "first_seen_date": null
   },
-  "CVE-2017-1000379": {
-    "first_seen_in": "2017-013",
-    "first_seen_date": null
-  },
-  "CVE-2017-1000366": {
+  "CVE-2017-1000372": {
     "first_seen_in": "2017-013",
     "first_seen_date": null
   },
@@ -79,27 +63,19 @@
     "first_seen_in": "2017-013",
     "first_seen_date": null
   },
-  "CVE-2017-1000375": {
-    "first_seen_in": "2017-013",
-    "first_seen_date": null
-  },
-  "CVE-2017-1000372": {
-    "first_seen_in": "2017-013",
-    "first_seen_date": null
-  },
-  "CVE-2017-1000378": {
-    "first_seen_in": "2017-013",
-    "first_seen_date": null
-  },
-  "CVE-2017-1000367": {
-    "first_seen_in": "2017-013",
-    "first_seen_date": null
-  },
   "CVE-2017-1000369": {
     "first_seen_in": "2017-013",
     "first_seen_date": null
   },
-  "CVE-2017-1000374": {
+  "CVE-2017-1000366": {
+    "first_seen_in": "2017-013",
+    "first_seen_date": null
+  },
+  "CVE-2017-1000375": {
+    "first_seen_in": "2017-013",
+    "first_seen_date": null
+  },
+  "CVE-2017-1000365": {
     "first_seen_in": "2017-013",
     "first_seen_date": null
   },
@@ -107,19 +83,43 @@
     "first_seen_in": "2017-013",
     "first_seen_date": null
   },
+  "CVE-2017-1000371": {
+    "first_seen_in": "2017-013",
+    "first_seen_date": null
+  },
+  "CVE-2017-1000377": {
+    "first_seen_in": "2017-013",
+    "first_seen_date": null
+  },
+  "CVE-2017-1000378": {
+    "first_seen_in": "2017-013",
+    "first_seen_date": null
+  },
+  "CVE-2017-1000376": {
+    "first_seen_in": "2017-013",
+    "first_seen_date": null
+  },
+  "CVE-2017-1000379": {
+    "first_seen_in": "2017-013",
+    "first_seen_date": null
+  },
+  "CVE-2017-1000374": {
+    "first_seen_in": "2017-013",
+    "first_seen_date": null
+  },
   "CVE-2017-9805": {
     "first_seen_in": "2017-017",
+    "first_seen_date": null
+  },
+  "CVE-2017-0785": {
+    "first_seen_in": "2017-018",
     "first_seen_date": null
   },
   "CVE-2017-0783": {
     "first_seen_in": "2017-018",
     "first_seen_date": null
   },
-  "CVE-2017-0781": {
-    "first_seen_in": "2017-018",
-    "first_seen_date": null
-  },
-  "CVE-2017-0785": {
+  "CVE-2017-1000251": {
     "first_seen_in": "2017-018",
     "first_seen_date": null
   },
@@ -127,11 +127,11 @@
     "first_seen_in": "2017-018",
     "first_seen_date": null
   },
-  "CVE-2017-1000250": {
+  "CVE-2017-0781": {
     "first_seen_in": "2017-018",
     "first_seen_date": null
   },
-  "CVE-2017-1000251": {
+  "CVE-2017-1000250": {
     "first_seen_in": "2017-018",
     "first_seen_date": null
   },
@@ -143,27 +143,7 @@
     "first_seen_in": "2017-019",
     "first_seen_date": null
   },
-  "CVE-2017-14496": {
-    "first_seen_in": "2017-020",
-    "first_seen_date": null
-  },
-  "CVE-2017-13704": {
-    "first_seen_in": "2017-020",
-    "first_seen_date": null
-  },
-  "CVE-2017-14493": {
-    "first_seen_in": "2017-020",
-    "first_seen_date": null
-  },
-  "CVE-2017-14491": {
-    "first_seen_in": "2017-020",
-    "first_seen_date": null
-  },
   "CVE-2017-14492": {
-    "first_seen_in": "2017-020",
-    "first_seen_date": null
-  },
-  "CVE-2017-14494": {
     "first_seen_in": "2017-020",
     "first_seen_date": null
   },
@@ -171,35 +151,27 @@
     "first_seen_in": "2017-020",
     "first_seen_date": null
   },
-  "CVE-2017-13079": {
-    "first_seen_in": "2017-021",
+  "CVE-2017-14493": {
+    "first_seen_in": "2017-020",
     "first_seen_date": null
   },
-  "CVE-2017-13081": {
-    "first_seen_in": "2017-021",
+  "CVE-2017-13704": {
+    "first_seen_in": "2017-020",
     "first_seen_date": null
   },
-  "CVE-2017-13086": {
-    "first_seen_in": "2017-021",
+  "CVE-2017-14491": {
+    "first_seen_in": "2017-020",
     "first_seen_date": null
   },
-  "CVE-2017-13087": {
-    "first_seen_in": "2017-021",
+  "CVE-2017-14496": {
+    "first_seen_in": "2017-020",
     "first_seen_date": null
   },
-  "CVE-2017-13082": {
-    "first_seen_in": "2017-021",
-    "first_seen_date": null
-  },
-  "CVE-2017-13088": {
-    "first_seen_in": "2017-021",
+  "CVE-2017-14494": {
+    "first_seen_in": "2017-020",
     "first_seen_date": null
   },
   "CVE-2017-13077": {
-    "first_seen_in": "2017-021",
-    "first_seen_date": null
-  },
-  "CVE-2017-13078": {
     "first_seen_in": "2017-021",
     "first_seen_date": null
   },
@@ -211,20 +183,40 @@
     "first_seen_in": "2017-021",
     "first_seen_date": null
   },
+  "CVE-2017-13088": {
+    "first_seen_in": "2017-021",
+    "first_seen_date": null
+  },
+  "CVE-2017-13078": {
+    "first_seen_in": "2017-021",
+    "first_seen_date": null
+  },
+  "CVE-2017-13087": {
+    "first_seen_in": "2017-021",
+    "first_seen_date": null
+  },
+  "CVE-2017-13081": {
+    "first_seen_in": "2017-021",
+    "first_seen_date": null
+  },
+  "CVE-2017-13082": {
+    "first_seen_in": "2017-021",
+    "first_seen_date": null
+  },
+  "CVE-2017-13079": {
+    "first_seen_in": "2017-021",
+    "first_seen_date": null
+  },
+  "CVE-2017-13086": {
+    "first_seen_in": "2017-021",
+    "first_seen_date": null
+  },
   "CVE-2017-11292": {
     "first_seen_in": "2017-022",
     "first_seen_date": null
   },
   "CVE-2017-15361": {
     "first_seen_in": "2017-023",
-    "first_seen_date": null
-  },
-  "CVE-2017-5705": {
-    "first_seen_in": "2017-025",
-    "first_seen_date": null
-  },
-  "CVE-2017-5712": {
-    "first_seen_in": "2017-025",
     "first_seen_date": null
   },
   "CVE-2017-5709": {
@@ -236,6 +228,10 @@
     "first_seen_date": null
   },
   "CVE-2017-5707": {
+    "first_seen_in": "2017-025",
+    "first_seen_date": null
+  },
+  "CVE-2017-5712": {
     "first_seen_in": "2017-025",
     "first_seen_date": null
   },
@@ -251,6 +247,18 @@
     "first_seen_in": "2017-025",
     "first_seen_date": null
   },
+  "CVE-2017-5705": {
+    "first_seen_in": "2017-025",
+    "first_seen_date": null
+  },
+  "CVE-2017-4943": {
+    "first_seen_in": "2017-027",
+    "first_seen_date": null
+  },
+  "CVE-2017-4940": {
+    "first_seen_in": "2017-027",
+    "first_seen_date": null
+  },
   "CVE-2017-4941": {
     "first_seen_in": "2017-027",
     "first_seen_date": null
@@ -259,19 +267,11 @@
     "first_seen_in": "2017-027",
     "first_seen_date": null
   },
-  "CVE-2017-4940": {
-    "first_seen_in": "2017-027",
-    "first_seen_date": null
-  },
-  "CVE-2017-4943": {
-    "first_seen_in": "2017-027",
-    "first_seen_date": null
-  },
-  "CVE-2017-5753": {
+  "CVE-2017-5715": {
     "first_seen_in": "2018-001",
     "first_seen_date": null
   },
-  "CVE-2017-5715": {
+  "CVE-2017-5753": {
     "first_seen_in": "2018-001",
     "first_seen_date": null
   },
@@ -303,83 +303,7 @@
     "first_seen_in": "2018-009",
     "first_seen_date": null
   },
-  "CVE-2018-0240": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0254": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0239": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0267": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0266": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0243": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0272": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0228": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0242": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0256": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0273": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0231": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0244": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0259": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0269": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0255": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0251": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0233": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0276": {
-    "first_seen_in": "2018-011",
-    "first_seen_date": null
-  },
-  "CVE-2018-0241": {
+  "CVE-2018-0230": {
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
@@ -387,15 +311,55 @@
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
-  "CVE-2018-0156": {
+  "CVE-2018-0112": {
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
-  "CVE-2018-0275": {
+  "CVE-2018-0243": {
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
-  "CVE-2018-0230": {
+  "CVE-2018-0241": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0272": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0251": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0269": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0240": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0267": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0228": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0238": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0239": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0255": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0233": {
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
@@ -407,7 +371,19 @@
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
+  "CVE-2018-0231": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
   "CVE-2018-0227": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0259": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0244": {
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
@@ -415,11 +391,35 @@
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
-  "CVE-2018-0238": {
+  "CVE-2018-0256": {
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
-  "CVE-2018-0112": {
+  "CVE-2018-0273": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0242": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0276": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0275": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0266": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0254": {
+    "first_seen_in": "2018-011",
+    "first_seen_date": null
+  },
+  "CVE-2018-0156": {
     "first_seen_in": "2018-011",
     "first_seen_date": null
   },
@@ -427,83 +427,27 @@
     "first_seen_in": "2018-012",
     "first_seen_date": null
   },
-  "CVE-2018-0287": {
-    "first_seen_in": "2018-013",
-    "first_seen_date": null
-  },
   "CVE-2018-0264": {
     "first_seen_in": "2018-013",
     "first_seen_date": null
   },
-  "CVE-2017-17689": {
-    "first_seen_in": "2018-014",
+  "CVE-2018-0287": {
+    "first_seen_in": "2018-013",
     "first_seen_date": null
   },
   "CVE-2017-17688": {
     "first_seen_in": "2018-014",
     "first_seen_date": null
   },
-  "CVE-2018-4965": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4963": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4964": {
-    "first_seen_in": "2018-015",
+  "CVE-2017-17689": {
+    "first_seen_in": "2018-014",
     "first_seen_date": null
   },
   "CVE-2018-4994": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4956": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4984": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4971": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4977": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4993": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4979": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4975": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4985": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4990": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4948": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4960": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4959": {
+  "CVE-2018-4980": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
@@ -511,19 +455,7 @@
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4950": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4983": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4970": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4972": {
+  "CVE-2018-4967": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
@@ -531,27 +463,31 @@
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4973": {
+  "CVE-2018-4946": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4952": {
+  "CVE-2018-4990": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4989": {
+  "CVE-2018-4983": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4958": {
+  "CVE-2018-4979": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4981": {
+  "CVE-2018-4972": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4986": {
+  "CVE-2018-4956": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4978": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
@@ -559,7 +495,39 @@
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4978": {
+  "CVE-2018-4977": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4957": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4964": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4962": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4976": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4970": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4975": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4961": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4952": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
@@ -571,43 +539,7 @@
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4974": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4957": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4987": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4976": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
   "CVE-2018-4988": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4967": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4969": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4947": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4968": {
-    "first_seen_in": "2018-015",
-    "first_seen_date": null
-  },
-  "CVE-2018-4966": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
@@ -615,19 +547,87 @@
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4980": {
+  "CVE-2018-4963": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4946": {
+  "CVE-2018-4948": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4962": {
+  "CVE-2018-4974": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
-  "CVE-2018-4961": {
+  "CVE-2018-4968": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4981": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4966": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4986": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4984": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4989": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4950": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4947": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4960": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4973": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4965": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4985": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4959": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4971": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4993": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4987": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4958": {
+    "first_seen_in": "2018-015",
+    "first_seen_date": null
+  },
+  "CVE-2018-4969": {
     "first_seen_in": "2018-015",
     "first_seen_date": null
   },
@@ -635,27 +635,11 @@
     "first_seen_in": "2018-016",
     "first_seen_date": null
   },
-  "CVE-2018-0027": {
-    "first_seen_in": "2018-017",
-    "first_seen_date": null
-  },
-  "CVE-2018-0026": {
-    "first_seen_in": "2018-017",
-    "first_seen_date": null
-  },
-  "CVE-2018-0031": {
-    "first_seen_in": "2018-017",
-    "first_seen_date": null
-  },
-  "CVE-2018-0034": {
-    "first_seen_in": "2018-017",
-    "first_seen_date": null
-  },
-  "CVE-2018-0029": {
-    "first_seen_in": "2018-017",
-    "first_seen_date": null
-  },
   "CVE-2018-0030": {
+    "first_seen_in": "2018-017",
+    "first_seen_date": null
+  },
+  "CVE-2018-0024": {
     "first_seen_in": "2018-017",
     "first_seen_date": null
   },
@@ -663,11 +647,23 @@
     "first_seen_in": "2018-017",
     "first_seen_date": null
   },
-  "CVE-2018-0035": {
+  "CVE-2018-0037": {
     "first_seen_in": "2018-017",
     "first_seen_date": null
   },
-  "CVE-2018-0037": {
+  "CVE-2018-0029": {
+    "first_seen_in": "2018-017",
+    "first_seen_date": null
+  },
+  "CVE-2018-0027": {
+    "first_seen_in": "2018-017",
+    "first_seen_date": null
+  },
+  "CVE-2018-0034": {
+    "first_seen_in": "2018-017",
+    "first_seen_date": null
+  },
+  "CVE-2018-0031": {
     "first_seen_in": "2018-017",
     "first_seen_date": null
   },
@@ -675,7 +671,11 @@
     "first_seen_in": "2018-017",
     "first_seen_date": null
   },
-  "CVE-2018-0024": {
+  "CVE-2018-0026": {
+    "first_seen_in": "2018-017",
+    "first_seen_date": null
+  },
+  "CVE-2018-0035": {
     "first_seen_in": "2018-017",
     "first_seen_date": null
   },
@@ -687,15 +687,15 @@
     "first_seen_in": "2018-018",
     "first_seen_date": null
   },
+  "CVE-2018-3620": {
+    "first_seen_in": "2018-020",
+    "first_seen_date": null
+  },
   "CVE-2018-3615": {
     "first_seen_in": "2018-020",
     "first_seen_date": null
   },
   "CVE-2018-3646": {
-    "first_seen_in": "2018-020",
-    "first_seen_date": null
-  },
-  "CVE-2018-3620": {
     "first_seen_in": "2018-020",
     "first_seen_date": null
   },
@@ -711,7 +711,7 @@
     "first_seen_in": "2018-022",
     "first_seen_date": null
   },
-  "CVE-2018-15422": {
+  "CVE-2018-15414": {
     "first_seen_in": "2018-025",
     "first_seen_date": null
   },
@@ -719,15 +719,15 @@
     "first_seen_in": "2018-025",
     "first_seen_date": null
   },
-  "CVE-2018-15414": {
+  "CVE-2018-15422": {
     "first_seen_in": "2018-025",
     "first_seen_date": null
   },
-  "CVE-2018-16986": {
+  "CVE-2018-7080": {
     "first_seen_in": "2018-028",
     "first_seen_date": null
   },
-  "CVE-2018-7080": {
+  "CVE-2018-16986": {
     "first_seen_in": "2018-028",
     "first_seen_date": null
   },
@@ -751,6 +751,10 @@
     "first_seen_in": "2019-006",
     "first_seen_date": null
   },
+  "CVE-2019-5514": {
+    "first_seen_in": "2019-008",
+    "first_seen_date": null
+  },
   "CVE-2019-5515": {
     "first_seen_in": "2019-008",
     "first_seen_date": null
@@ -759,15 +763,11 @@
     "first_seen_in": "2019-008",
     "first_seen_date": null
   },
-  "CVE-2019-5524": {
-    "first_seen_in": "2019-008",
-    "first_seen_date": null
-  },
   "CVE-2019-5519": {
     "first_seen_in": "2019-008",
     "first_seen_date": null
   },
-  "CVE-2019-5514": {
+  "CVE-2019-5524": {
     "first_seen_in": "2019-008",
     "first_seen_date": null
   },
@@ -791,11 +791,11 @@
     "first_seen_in": "2019-013",
     "first_seen_date": null
   },
-  "CVE-2019-1019": {
+  "CVE-2019-1040": {
     "first_seen_in": "2019-014",
     "first_seen_date": null
   },
-  "CVE-2019-1040": {
+  "CVE-2019-1019": {
     "first_seen_in": "2019-014",
     "first_seen_date": null
   },
@@ -815,11 +815,11 @@
     "first_seen_in": "2019-017",
     "first_seen_date": null
   },
-  "CVE-2018-13379": {
+  "CVE-2019-1579": {
     "first_seen_in": "2019-017",
     "first_seen_date": null
   },
-  "CVE-2019-1579": {
+  "CVE-2018-13379": {
     "first_seen_in": "2019-017",
     "first_seen_date": null
   },
@@ -839,19 +839,19 @@
     "first_seen_in": "2020-002",
     "first_seen_date": null
   },
-  "CVE-2020-0601": {
-    "first_seen_in": "2020-003",
-    "first_seen_date": null
-  },
-  "CVE-2020-0610": {
-    "first_seen_in": "2020-003",
-    "first_seen_date": null
-  },
   "CVE-2020-0611": {
     "first_seen_in": "2020-003",
     "first_seen_date": null
   },
+  "CVE-2020-0601": {
+    "first_seen_in": "2020-003",
+    "first_seen_date": null
+  },
   "CVE-2020-0609": {
+    "first_seen_in": "2020-003",
+    "first_seen_date": null
+  },
+  "CVE-2020-0610": {
     "first_seen_in": "2020-003",
     "first_seen_date": null
   },
@@ -863,11 +863,11 @@
     "first_seen_in": "2020-010",
     "first_seen_date": null
   },
-  "CVE-2020-3127": {
+  "CVE-2020-3128": {
     "first_seen_in": "2020-012",
     "first_seen_date": null
   },
-  "CVE-2020-3128": {
+  "CVE-2020-3127": {
     "first_seen_in": "2020-012",
     "first_seen_date": null
   },
@@ -883,27 +883,15 @@
     "first_seen_in": "2020-015",
     "first_seen_date": null
   },
-  "CVE-2020-3947": {
-    "first_seen_in": "2020-015",
-    "first_seen_date": null
-  },
   "CVE-2020-3948": {
     "first_seen_in": "2020-015",
     "first_seen_date": null
   },
-  "CVE-2020-8468": {
-    "first_seen_in": "2020-016",
+  "CVE-2020-3947": {
+    "first_seen_in": "2020-015",
     "first_seen_date": null
   },
   "CVE-2020-8598": {
-    "first_seen_in": "2020-016",
-    "first_seen_date": null
-  },
-  "CVE-2020-8470": {
-    "first_seen_in": "2020-016",
-    "first_seen_date": null
-  },
-  "CVE-2020-8467": {
     "first_seen_in": "2020-016",
     "first_seen_date": null
   },
@@ -911,15 +899,27 @@
     "first_seen_in": "2020-016",
     "first_seen_date": null
   },
+  "CVE-2020-8467": {
+    "first_seen_in": "2020-016",
+    "first_seen_date": null
+  },
+  "CVE-2020-8470": {
+    "first_seen_in": "2020-016",
+    "first_seen_date": null
+  },
+  "CVE-2020-8468": {
+    "first_seen_in": "2020-016",
+    "first_seen_date": null
+  },
   "CVE-2020-7065": {
     "first_seen_in": "2020-018",
     "first_seen_date": null
   },
-  "CVE-2019-10098": {
+  "CVE-2020-1927": {
     "first_seen_in": "2020-019",
     "first_seen_date": null
   },
-  "CVE-2020-1927": {
+  "CVE-2019-10098": {
     "first_seen_in": "2020-019",
     "first_seen_date": null
   },
@@ -939,16 +939,20 @@
     "first_seen_in": "2020-022",
     "first_seen_date": null
   },
-  "CVE-2020-11580": {
+  "CVE-2020-11582": {
     "first_seen_in": "2020-023",
     "first_seen_date": null
   },
-  "CVE-2020-11582": {
+  "CVE-2020-11580": {
     "first_seen_in": "2020-023",
     "first_seen_date": null
   },
   "CVE-2020-11581": {
     "first_seen_in": "2020-023",
+    "first_seen_date": null
+  },
+  "CVE-2020-7081": {
+    "first_seen_in": "2020-024",
     "first_seen_date": null
   },
   "CVE-2020-7080": {
@@ -959,11 +963,11 @@
     "first_seen_in": "2020-024",
     "first_seen_date": null
   },
-  "CVE-2020-7083": {
+  "CVE-2020-7084": {
     "first_seen_in": "2020-024",
     "first_seen_date": null
   },
-  "CVE-2020-7084": {
+  "CVE-2020-7083": {
     "first_seen_in": "2020-024",
     "first_seen_date": null
   },
@@ -971,28 +975,16 @@
     "first_seen_in": "2020-024",
     "first_seen_date": null
   },
-  "CVE-2020-7081": {
-    "first_seen_in": "2020-024",
-    "first_seen_date": null
-  },
   "CVE-2020-0932": {
     "first_seen_in": "2020-025",
-    "first_seen_date": null
-  },
-  "CVE-2020-2555": {
-    "first_seen_in": "2020-026",
     "first_seen_date": null
   },
   "CVE-2020-2883": {
     "first_seen_in": "2020-026",
     "first_seen_date": null
   },
-  "CVE-2020-12667": {
-    "first_seen_in": "2020-027",
-    "first_seen_date": null
-  },
-  "CVE-2020-8616": {
-    "first_seen_in": "2020-027",
+  "CVE-2020-2555": {
+    "first_seen_in": "2020-026",
     "first_seen_date": null
   },
   "CVE-2020-12663": {
@@ -1003,7 +995,15 @@
     "first_seen_in": "2020-027",
     "first_seen_date": null
   },
+  "CVE-2020-12667": {
+    "first_seen_in": "2020-027",
+    "first_seen_date": null
+  },
   "CVE-2020-10995": {
+    "first_seen_in": "2020-027",
+    "first_seen_date": null
+  },
+  "CVE-2020-8616": {
     "first_seen_in": "2020-027",
     "first_seen_date": null
   },
@@ -1027,19 +1027,19 @@
     "first_seen_in": "2020-033",
     "first_seen_date": null
   },
-  "CVE-2020-15505": {
-    "first_seen_in": "2020-033",
-    "first_seen_date": null
-  },
   "CVE-2020-15506": {
     "first_seen_in": "2020-033",
     "first_seen_date": null
   },
-  "CVE-2020-6287": {
-    "first_seen_in": "2020-034",
+  "CVE-2020-15505": {
+    "first_seen_in": "2020-033",
     "first_seen_date": null
   },
   "CVE-2020-6286": {
+    "first_seen_in": "2020-034",
+    "first_seen_date": null
+  },
+  "CVE-2020-6287": {
     "first_seen_in": "2020-034",
     "first_seen_date": null
   },
@@ -1047,11 +1047,11 @@
     "first_seen_in": "2020-035",
     "first_seen_date": null
   },
-  "CVE-2020-3144": {
+  "CVE-2020-3330": {
     "first_seen_in": "2020-036",
     "first_seen_date": null
   },
-  "CVE-2020-3140": {
+  "CVE-2020-3144": {
     "first_seen_in": "2020-036",
     "first_seen_date": null
   },
@@ -1059,7 +1059,7 @@
     "first_seen_in": "2020-036",
     "first_seen_date": null
   },
-  "CVE-2020-3330": {
+  "CVE-2020-3140": {
     "first_seen_in": "2020-036",
     "first_seen_date": null
   },
@@ -1071,19 +1071,7 @@
     "first_seen_in": "2020-037",
     "first_seen_date": null
   },
-  "CVE-2020-3461": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11911": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11900": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-3376": {
+  "CVE-2020-11896": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
@@ -1091,19 +1079,15 @@
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
+  "CVE-2020-11904": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11911": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
   "CVE-2020-3382": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-3462": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11910": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11914": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
@@ -1111,39 +1095,7 @@
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
-  "CVE-2020-3386": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-3460": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
   "CVE-2020-11901": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11908": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11906": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11905": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-3384": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11902": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11912": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
@@ -1151,27 +1103,19 @@
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
-  "CVE-2020-11913": {
+  "CVE-2020-11900": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
-  "CVE-2020-3377": {
+  "CVE-2020-3386": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
-  "CVE-2020-11903": {
+  "CVE-2020-3462": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
-  "CVE-2020-11904": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-3383": {
-    "first_seen_in": "2020-039",
-    "first_seen_date": null
-  },
-  "CVE-2020-11896": {
+  "CVE-2020-3460": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
@@ -1179,7 +1123,31 @@
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
-  "CVE-2020-3375": {
+  "CVE-2020-3383": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11910": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11908": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11912": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11903": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-3377": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11913": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
@@ -1187,15 +1155,47 @@
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
+  "CVE-2020-3461": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-3384": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11914": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11902": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-3375": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-11906": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-3376": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
   "CVE-2020-3374": {
     "first_seen_in": "2020-039",
     "first_seen_date": null
   },
-  "CVE-2020-8211": {
+  "CVE-2020-11905": {
+    "first_seen_in": "2020-039",
+    "first_seen_date": null
+  },
+  "CVE-2020-8208": {
     "first_seen_in": "2020-040",
     "first_seen_date": null
   },
-  "CVE-2020-8210": {
+  "CVE-2020-8211": {
     "first_seen_in": "2020-040",
     "first_seen_date": null
   },
@@ -1203,11 +1203,11 @@
     "first_seen_in": "2020-040",
     "first_seen_date": null
   },
-  "CVE-2020-8208": {
+  "CVE-2020-8212": {
     "first_seen_in": "2020-040",
     "first_seen_date": null
   },
-  "CVE-2020-8212": {
+  "CVE-2020-8210": {
     "first_seen_in": "2020-040",
     "first_seen_date": null
   },
@@ -1215,11 +1215,11 @@
     "first_seen_in": "2020-042",
     "first_seen_date": null
   },
-  "CVE-2020-3566": {
+  "CVE-2020-3495": {
     "first_seen_in": "2020-043",
     "first_seen_date": null
   },
-  "CVE-2020-3478": {
+  "CVE-2020-3566": {
     "first_seen_in": "2020-043",
     "first_seen_date": null
   },
@@ -1231,16 +1231,24 @@
     "first_seen_in": "2020-043",
     "first_seen_date": null
   },
-  "CVE-2020-3530": {
+  "CVE-2020-3478": {
     "first_seen_in": "2020-043",
     "first_seen_date": null
   },
-  "CVE-2020-3495": {
+  "CVE-2020-3530": {
     "first_seen_in": "2020-043",
     "first_seen_date": null
   },
   "CVE-2020-16875": {
     "first_seen_in": "2020-044",
+    "first_seen_date": null
+  },
+  "CVE-2020-2036": {
+    "first_seen_in": "2020-045",
+    "first_seen_date": null
+  },
+  "CVE-2020-2040": {
+    "first_seen_in": "2020-045",
     "first_seen_date": null
   },
   "CVE-2020-2042": {
@@ -1251,19 +1259,11 @@
     "first_seen_in": "2020-045",
     "first_seen_date": null
   },
-  "CVE-2020-2036": {
-    "first_seen_in": "2020-045",
-    "first_seen_date": null
-  },
   "CVE-2020-2041": {
     "first_seen_in": "2020-045",
     "first_seen_date": null
   },
   "CVE-2020-2037": {
-    "first_seen_in": "2020-045",
-    "first_seen_date": null
-  },
-  "CVE-2020-2040": {
     "first_seen_in": "2020-045",
     "first_seen_date": null
   },
@@ -1315,11 +1315,11 @@
     "first_seen_in": "2020-057",
     "first_seen_date": null
   },
-  "CVE-2020-4005": {
+  "CVE-2020-4006": {
     "first_seen_in": "2020-057",
     "first_seen_date": null
   },
-  "CVE-2020-4006": {
+  "CVE-2020-4005": {
     "first_seen_in": "2020-057",
     "first_seen_date": null
   },
@@ -1327,15 +1327,11 @@
     "first_seen_in": "2020-058",
     "first_seen_date": null
   },
-  "CVE-2020-26085": {
-    "first_seen_in": "2020-059",
-    "first_seen_date": null
-  },
-  "CVE-2020-27127": {
-    "first_seen_in": "2020-059",
-    "first_seen_date": null
-  },
   "CVE-2020-27132": {
+    "first_seen_in": "2020-059",
+    "first_seen_date": null
+  },
+  "CVE-2020-27134": {
     "first_seen_in": "2020-059",
     "first_seen_date": null
   },
@@ -1343,7 +1339,11 @@
     "first_seen_in": "2020-059",
     "first_seen_date": null
   },
-  "CVE-2020-27134": {
+  "CVE-2020-26085": {
+    "first_seen_in": "2020-059",
+    "first_seen_date": null
+  },
+  "CVE-2020-27127": {
     "first_seen_in": "2020-059",
     "first_seen_date": null
   },
@@ -1363,7 +1363,7 @@
     "first_seen_in": "2021-001",
     "first_seen_date": null
   },
-  "CVE-2021-1274": {
+  "CVE-2021-1273": {
     "first_seen_in": "2021-003",
     "first_seen_date": null
   },
@@ -1371,11 +1371,7 @@
     "first_seen_in": "2021-003",
     "first_seen_date": null
   },
-  "CVE-2021-1273": {
-    "first_seen_in": "2021-003",
-    "first_seen_date": null
-  },
-  "CVE-2021-1241": {
+  "CVE-2021-1274": {
     "first_seen_in": "2021-003",
     "first_seen_date": null
   },
@@ -1384,6 +1380,10 @@
     "first_seen_date": null
   },
   "CVE-2021-1299": {
+    "first_seen_in": "2021-003",
+    "first_seen_date": null
+  },
+  "CVE-2021-1241": {
     "first_seen_in": "2021-003",
     "first_seen_date": null
   },
@@ -1407,15 +1407,7 @@
     "first_seen_in": "2021-008",
     "first_seen_date": null
   },
-  "CVE-2021-1291": {
-    "first_seen_in": "2021-009",
-    "first_seen_date": null
-  },
-  "CVE-2021-1289": {
-    "first_seen_in": "2021-009",
-    "first_seen_date": null
-  },
-  "CVE-2021-1313": {
+  "CVE-2021-1297": {
     "first_seen_in": "2021-009",
     "first_seen_date": null
   },
@@ -1427,11 +1419,19 @@
     "first_seen_in": "2021-009",
     "first_seen_date": null
   },
-  "CVE-2021-1297": {
+  "CVE-2021-1288": {
     "first_seen_in": "2021-009",
     "first_seen_date": null
   },
-  "CVE-2021-1288": {
+  "CVE-2021-1289": {
+    "first_seen_in": "2021-009",
+    "first_seen_date": null
+  },
+  "CVE-2021-1291": {
+    "first_seen_in": "2021-009",
+    "first_seen_date": null
+  },
+  "CVE-2021-1313": {
     "first_seen_in": "2021-009",
     "first_seen_date": null
   },
@@ -1439,19 +1439,19 @@
     "first_seen_in": "2021-010",
     "first_seen_date": null
   },
-  "CVE-2021-21974": {
-    "first_seen_in": "2021-011",
-    "first_seen_date": null
-  },
   "CVE-2021-21972": {
     "first_seen_in": "2021-011",
     "first_seen_date": null
   },
-  "CVE-2021-1361": {
-    "first_seen_in": "2021-012",
+  "CVE-2021-21974": {
+    "first_seen_in": "2021-011",
     "first_seen_date": null
   },
   "CVE-2021-1393": {
+    "first_seen_in": "2021-012",
+    "first_seen_date": null
+  },
+  "CVE-2021-1361": {
     "first_seen_in": "2021-012",
     "first_seen_date": null
   },
@@ -1459,15 +1459,15 @@
     "first_seen_in": "2021-012",
     "first_seen_date": null
   },
-  "CVE-2021-26855": {
-    "first_seen_in": "2021-013",
-    "first_seen_date": null
-  },
   "CVE-2021-27065": {
     "first_seen_in": "2021-013",
     "first_seen_date": null
   },
   "CVE-2021-26858": {
+    "first_seen_in": "2021-013",
+    "first_seen_date": null
+  },
+  "CVE-2021-26855": {
     "first_seen_in": "2021-013",
     "first_seen_date": null
   },
@@ -1479,10 +1479,6 @@
     "first_seen_in": "2021-014",
     "first_seen_date": null
   },
-  "CVE-2021-26877": {
-    "first_seen_in": "2021-014",
-    "first_seen_date": null
-  },
   "CVE-2021-26893": {
     "first_seen_in": "2021-014",
     "first_seen_date": null
@@ -1491,20 +1487,12 @@
     "first_seen_in": "2021-014",
     "first_seen_date": null
   },
-  "CVE-2021-26894": {
+  "CVE-2021-26877": {
     "first_seen_in": "2021-014",
     "first_seen_date": null
   },
-  "CVE-2021-22992": {
-    "first_seen_in": "2021-015",
-    "first_seen_date": null
-  },
-  "CVE-2021-22989": {
-    "first_seen_in": "2021-015",
-    "first_seen_date": null
-  },
-  "CVE-2021-22986": {
-    "first_seen_in": "2021-015",
+  "CVE-2021-26894": {
+    "first_seen_in": "2021-014",
     "first_seen_date": null
   },
   "CVE-2021-22988": {
@@ -1515,15 +1503,27 @@
     "first_seen_in": "2021-015",
     "first_seen_date": null
   },
-  "CVE-2021-22987": {
-    "first_seen_in": "2021-015",
-    "first_seen_date": null
-  },
   "CVE-2021-22990": {
     "first_seen_in": "2021-015",
     "first_seen_date": null
   },
-  "CVE-2021-1471": {
+  "CVE-2021-22989": {
+    "first_seen_in": "2021-015",
+    "first_seen_date": null
+  },
+  "CVE-2021-22987": {
+    "first_seen_in": "2021-015",
+    "first_seen_date": null
+  },
+  "CVE-2021-22992": {
+    "first_seen_in": "2021-015",
+    "first_seen_date": null
+  },
+  "CVE-2021-22986": {
+    "first_seen_in": "2021-015",
+    "first_seen_date": null
+  },
+  "CVE-2021-1469": {
     "first_seen_in": "2021-016",
     "first_seen_date": null
   },
@@ -1531,16 +1531,20 @@
     "first_seen_in": "2021-016",
     "first_seen_date": null
   },
+  "CVE-2021-1411": {
+    "first_seen_in": "2021-016",
+    "first_seen_date": null
+  },
   "CVE-2021-1417": {
     "first_seen_in": "2021-016",
     "first_seen_date": null
   },
-  "CVE-2021-1469": {
+  "CVE-2021-1471": {
     "first_seen_in": "2021-016",
     "first_seen_date": null
   },
-  "CVE-2021-1411": {
-    "first_seen_in": "2021-016",
+  "CVE-2021-1137": {
+    "first_seen_in": "2021-018",
     "first_seen_date": null
   },
   "CVE-2021-1480": {
@@ -1551,19 +1555,7 @@
     "first_seen_in": "2021-018",
     "first_seen_date": null
   },
-  "CVE-2021-1137": {
-    "first_seen_in": "2021-018",
-    "first_seen_date": null
-  },
-  "CVE-2021-28482": {
-    "first_seen_in": "2021-019",
-    "first_seen_date": null
-  },
   "CVE-2021-28481": {
-    "first_seen_in": "2021-019",
-    "first_seen_date": null
-  },
-  "CVE-2021-28483": {
     "first_seen_in": "2021-019",
     "first_seen_date": null
   },
@@ -1571,7 +1563,15 @@
     "first_seen_in": "2021-019",
     "first_seen_date": null
   },
-  "CVE-2021-27602": {
+  "CVE-2021-28483": {
+    "first_seen_in": "2021-019",
+    "first_seen_date": null
+  },
+  "CVE-2021-28482": {
+    "first_seen_in": "2021-019",
+    "first_seen_date": null
+  },
+  "CVE-2020-27602": {
     "first_seen_in": "2021-020",
     "first_seen_date": null
   },
@@ -1579,23 +1579,15 @@
     "first_seen_in": "2021-020",
     "first_seen_date": null
   },
-  "CVE-2020-27602": {
+  "CVE-2021-27602": {
     "first_seen_in": "2021-020",
     "first_seen_date": null
   },
-  "CVE-2021-22933": {
+  "CVE-2021-22936": {
     "first_seen_in": "2021-021",
     "first_seen_date": null
   },
-  "CVE-2021-22934": {
-    "first_seen_in": "2021-021",
-    "first_seen_date": null
-  },
-  "CVE-2021-22894": {
-    "first_seen_in": "2021-021",
-    "first_seen_date": null
-  },
-  "CVE-2021-22938": {
+  "CVE-2021-22900": {
     "first_seen_in": "2021-021",
     "first_seen_date": null
   },
@@ -1603,11 +1595,15 @@
     "first_seen_in": "2021-021",
     "first_seen_date": null
   },
+  "CVE-2021-22894": {
+    "first_seen_in": "2021-021",
+    "first_seen_date": null
+  },
   "CVE-2021-22899": {
     "first_seen_in": "2021-021",
     "first_seen_date": null
   },
-  "CVE-2021-22893": {
+  "CVE-2021-22934": {
     "first_seen_in": "2021-021",
     "first_seen_date": null
   },
@@ -1619,28 +1615,20 @@
     "first_seen_in": "2021-021",
     "first_seen_date": null
   },
-  "CVE-2021-22900": {
+  "CVE-2021-22893": {
     "first_seen_in": "2021-021",
     "first_seen_date": null
   },
-  "CVE-2021-22936": {
+  "CVE-2021-22933": {
+    "first_seen_in": "2021-021",
+    "first_seen_date": null
+  },
+  "CVE-2021-22938": {
     "first_seen_in": "2021-021",
     "first_seen_date": null
   },
   "CVE-2021-21551": {
     "first_seen_in": "2021-022",
-    "first_seen_date": null
-  },
-  "CVE-2021-1468": {
-    "first_seen_in": "2021-023",
-    "first_seen_date": null
-  },
-  "CVE-2021-1498": {
-    "first_seen_in": "2021-023",
-    "first_seen_date": null
-  },
-  "CVE-2021-1505": {
-    "first_seen_in": "2021-023",
     "first_seen_date": null
   },
   "CVE-2021-1275": {
@@ -1651,15 +1639,27 @@
     "first_seen_in": "2021-023",
     "first_seen_date": null
   },
+  "CVE-2021-1505": {
+    "first_seen_in": "2021-023",
+    "first_seen_date": null
+  },
+  "CVE-2021-1468": {
+    "first_seen_in": "2021-023",
+    "first_seen_date": null
+  },
+  "CVE-2021-1498": {
+    "first_seen_in": "2021-023",
+    "first_seen_date": null
+  },
   "CVE-2021-28550": {
     "first_seen_in": "2021-024",
     "first_seen_date": null
   },
-  "CVE-2021-21986": {
+  "CVE-2021-21985": {
     "first_seen_in": "2021-025",
     "first_seen_date": null
   },
-  "CVE-2021-21985": {
+  "CVE-2021-21986": {
     "first_seen_in": "2021-025",
     "first_seen_date": null
   },
@@ -1667,19 +1667,19 @@
     "first_seen_in": "2021-026",
     "first_seen_date": null
   },
-  "CVE-2020-8299": {
-    "first_seen_in": "2021-027",
-    "first_seen_date": null
-  },
   "CVE-2020-8300": {
     "first_seen_in": "2021-027",
     "first_seen_date": null
   },
-  "CVE-2021-1567": {
-    "first_seen_in": "2021-028",
+  "CVE-2020-8299": {
+    "first_seen_in": "2021-027",
     "first_seen_date": null
   },
   "CVE-2021-1566": {
+    "first_seen_in": "2021-028",
+    "first_seen_date": null
+  },
+  "CVE-2021-1567": {
     "first_seen_in": "2021-028",
     "first_seen_date": null
   },
@@ -1695,6 +1695,10 @@
     "first_seen_in": "2021-031",
     "first_seen_date": null
   },
+  "CVE-2021-21572": {
+    "first_seen_in": "2021-031",
+    "first_seen_date": null
+  },
   "CVE-2021-21573": {
     "first_seen_in": "2021-031",
     "first_seen_date": null
@@ -1703,11 +1707,7 @@
     "first_seen_in": "2021-031",
     "first_seen_date": null
   },
-  "CVE-2021-21572": {
-    "first_seen_in": "2021-031",
-    "first_seen_date": null
-  },
-  "CVE-2021-34527": {
+  "CVE-2021-36958": {
     "first_seen_in": "2021-033",
     "first_seen_date": null
   },
@@ -1719,7 +1719,7 @@
     "first_seen_in": "2021-033",
     "first_seen_date": null
   },
-  "CVE-2021-36958": {
+  "CVE-2021-34527": {
     "first_seen_in": "2021-033",
     "first_seen_date": null
   },
@@ -1727,11 +1727,11 @@
     "first_seen_in": "2021-034",
     "first_seen_date": null
   },
-  "CVE-2021-1585": {
+  "CVE-2021-1574": {
     "first_seen_in": "2021-034",
     "first_seen_date": null
   },
-  "CVE-2021-1574": {
+  "CVE-2021-1585": {
     "first_seen_in": "2021-034",
     "first_seen_date": null
   },
@@ -1747,7 +1747,11 @@
     "first_seen_in": "2021-036",
     "first_seen_date": null
   },
-  "CVE-2021-2394": {
+  "CVE-2021-2397": {
+    "first_seen_in": "2021-037",
+    "first_seen_date": null
+  },
+  "CVE-2019-2729": {
     "first_seen_in": "2021-037",
     "first_seen_date": null
   },
@@ -1755,11 +1759,7 @@
     "first_seen_in": "2021-037",
     "first_seen_date": null
   },
-  "CVE-2021-2397": {
-    "first_seen_in": "2021-037",
-    "first_seen_date": null
-  },
-  "CVE-2019-2729": {
+  "CVE-2021-2394": {
     "first_seen_in": "2021-037",
     "first_seen_date": null
   },
@@ -1787,6 +1787,14 @@
     "first_seen_in": "2021-042",
     "first_seen_date": null
   },
+  "CVE-2021-1609": {
+    "first_seen_in": "2021-043",
+    "first_seen_date": null
+  },
+  "CVE-2021-1610": {
+    "first_seen_in": "2021-043",
+    "first_seen_date": null
+  },
   "CVE-2021-1602": {
     "first_seen_in": "2021-043",
     "first_seen_date": null
@@ -1795,31 +1803,7 @@
     "first_seen_in": "2021-043",
     "first_seen_date": null
   },
-  "CVE-2021-1610": {
-    "first_seen_in": "2021-043",
-    "first_seen_date": null
-  },
-  "CVE-2021-1609": {
-    "first_seen_in": "2021-043",
-    "first_seen_date": null
-  },
-  "CVE-2021-23034": {
-    "first_seen_in": "2021-044",
-    "first_seen_date": null
-  },
-  "CVE-2021-23032": {
-    "first_seen_in": "2021-044",
-    "first_seen_date": null
-  },
-  "CVE-2021-23030": {
-    "first_seen_in": "2021-044",
-    "first_seen_date": null
-  },
-  "CVE-2021-23037": {
-    "first_seen_in": "2021-044",
-    "first_seen_date": null
-  },
-  "CVE-2021-23027": {
+  "CVE-2021-23035": {
     "first_seen_in": "2021-044",
     "first_seen_date": null
   },
@@ -1827,23 +1811,19 @@
     "first_seen_in": "2021-044",
     "first_seen_date": null
   },
-  "CVE-2021-23029": {
-    "first_seen_in": "2021-044",
-    "first_seen_date": null
-  },
-  "CVE-2021-23028": {
-    "first_seen_in": "2021-044",
-    "first_seen_date": null
-  },
   "CVE-2021-23031": {
     "first_seen_in": "2021-044",
     "first_seen_date": null
   },
-  "CVE-2021-23035": {
+  "CVE-2021-23034": {
     "first_seen_in": "2021-044",
     "first_seen_date": null
   },
-  "CVE-2021-23036": {
+  "CVE-2021-23027": {
+    "first_seen_in": "2021-044",
+    "first_seen_date": null
+  },
+  "CVE-2021-23026": {
     "first_seen_in": "2021-044",
     "first_seen_date": null
   },
@@ -1851,7 +1831,27 @@
     "first_seen_in": "2021-044",
     "first_seen_date": null
   },
-  "CVE-2021-23026": {
+  "CVE-2021-23036": {
+    "first_seen_in": "2021-044",
+    "first_seen_date": null
+  },
+  "CVE-2021-23030": {
+    "first_seen_in": "2021-044",
+    "first_seen_date": null
+  },
+  "CVE-2021-23028": {
+    "first_seen_in": "2021-044",
+    "first_seen_date": null
+  },
+  "CVE-2021-23037": {
+    "first_seen_in": "2021-044",
+    "first_seen_date": null
+  },
+  "CVE-2021-23029": {
+    "first_seen_in": "2021-044",
+    "first_seen_date": null
+  },
+  "CVE-2021-23032": {
     "first_seen_in": "2021-044",
     "first_seen_date": null
   },
@@ -1907,6 +1907,10 @@
     "first_seen_in": "2021-052",
     "first_seen_date": null
   },
+  "CVE-2021-34727": {
+    "first_seen_in": "2021-053",
+    "first_seen_date": null
+  },
   "CVE-2021-34770": {
     "first_seen_in": "2021-053",
     "first_seen_date": null
@@ -1915,20 +1919,32 @@
     "first_seen_in": "2021-053",
     "first_seen_date": null
   },
-  "CVE-2021-34727": {
-    "first_seen_in": "2021-053",
+  "CVE-2021-42013": {
+    "first_seen_in": "2021-054",
     "first_seen_date": null
   },
   "CVE-2021-41773": {
     "first_seen_in": "2021-054",
     "first_seen_date": null
   },
-  "CVE-2021-42013": {
-    "first_seen_in": "2021-054",
-    "first_seen_date": null
-  },
   "CVE-2021-26427": {
     "first_seen_in": "2021-056",
+    "first_seen_date": null
+  },
+  "CVE-2021-34781": {
+    "first_seen_in": "2021-058",
+    "first_seen_date": null
+  },
+  "CVE-2021-34755": {
+    "first_seen_in": "2021-058",
+    "first_seen_date": null
+  },
+  "CVE-2021-40116": {
+    "first_seen_in": "2021-058",
+    "first_seen_date": null
+  },
+  "CVE-2021-34704": {
+    "first_seen_in": "2021-058",
     "first_seen_date": null
   },
   "CVE-2021-40118": {
@@ -1943,15 +1959,7 @@
     "first_seen_in": "2021-058",
     "first_seen_date": null
   },
-  "CVE-2021-34756": {
-    "first_seen_in": "2021-058",
-    "first_seen_date": null
-  },
-  "CVE-2021-34704": {
-    "first_seen_in": "2021-058",
-    "first_seen_date": null
-  },
-  "CVE-2021-34793": {
+  "CVE-2021-34762": {
     "first_seen_in": "2021-058",
     "first_seen_date": null
   },
@@ -1959,27 +1967,19 @@
     "first_seen_in": "2021-058",
     "first_seen_date": null
   },
-  "CVE-2021-34752": {
-    "first_seen_in": "2021-058",
-    "first_seen_date": null
-  },
-  "CVE-2021-40116": {
-    "first_seen_in": "2021-058",
-    "first_seen_date": null
-  },
-  "CVE-2021-34755": {
-    "first_seen_in": "2021-058",
-    "first_seen_date": null
-  },
   "CVE-2021-1573": {
     "first_seen_in": "2021-058",
     "first_seen_date": null
   },
-  "CVE-2021-34762": {
+  "CVE-2021-34756": {
     "first_seen_in": "2021-058",
     "first_seen_date": null
   },
-  "CVE-2021-34781": {
+  "CVE-2021-34752": {
+    "first_seen_in": "2021-058",
+    "first_seen_date": null
+  },
+  "CVE-2021-34793": {
     "first_seen_in": "2021-058",
     "first_seen_date": null
   },
@@ -2003,47 +2003,31 @@
     "first_seen_in": "2021-064",
     "first_seen_date": null
   },
-  "CVE-2021-22049": {
-    "first_seen_in": "2021-065",
-    "first_seen_date": null
-  },
   "CVE-2021-21980": {
     "first_seen_in": "2021-065",
     "first_seen_date": null
   },
-  "CVE-2021-20045": {
-    "first_seen_in": "2021-066",
+  "CVE-2021-22049": {
+    "first_seen_in": "2021-065",
     "first_seen_date": null
   },
   "CVE-2021-20038": {
     "first_seen_in": "2021-066",
     "first_seen_date": null
   },
-  "CVE-2022-23305": {
-    "first_seen_in": "2021-067",
-    "first_seen_date": null
-  },
-  "CVE-2021-45046": {
-    "first_seen_in": "2021-067",
-    "first_seen_date": null
-  },
-  "CVE-2022-23302": {
-    "first_seen_in": "2021-067",
+  "CVE-2021-20045": {
+    "first_seen_in": "2021-066",
     "first_seen_date": null
   },
   "CVE-2021-4104": {
     "first_seen_in": "2021-067",
     "first_seen_date": null
   },
-  "CVE-2021-44228": {
+  "CVE-2022-23307": {
     "first_seen_in": "2021-067",
     "first_seen_date": null
   },
-  "CVE-2021-45105": {
-    "first_seen_in": "2021-067",
-    "first_seen_date": null
-  },
-  "CVE-2021-44832": {
+  "CVE-2022-23305": {
     "first_seen_in": "2021-067",
     "first_seen_date": null
   },
@@ -2051,7 +2035,23 @@
     "first_seen_in": "2021-067",
     "first_seen_date": null
   },
-  "CVE-2022-23307": {
+  "CVE-2022-23302": {
+    "first_seen_in": "2021-067",
+    "first_seen_date": null
+  },
+  "CVE-2021-44832": {
+    "first_seen_in": "2021-067",
+    "first_seen_date": null
+  },
+  "CVE-2021-45105": {
+    "first_seen_in": "2021-067",
+    "first_seen_date": null
+  },
+  "CVE-2021-44228": {
+    "first_seen_in": "2021-067",
+    "first_seen_date": null
+  },
+  "CVE-2021-45046": {
     "first_seen_in": "2021-067",
     "first_seen_date": null
   },
@@ -2063,11 +2063,11 @@
     "first_seen_in": "2021-069",
     "first_seen_date": null
   },
-  "CVE-2021-42287": {
+  "CVE-2021-42278": {
     "first_seen_in": "2021-077",
     "first_seen_date": null
   },
-  "CVE-2021-42278": {
+  "CVE-2021-42287": {
     "first_seen_in": "2021-077",
     "first_seen_date": null
   },
@@ -2087,30 +2087,6 @@
     "first_seen_in": "2022-002",
     "first_seen_date": null
   },
-  "CVE-2022-21842": {
-    "first_seen_in": "2022-003",
-    "first_seen_date": null
-  },
-  "CVE-2022-21840": {
-    "first_seen_in": "2022-003",
-    "first_seen_date": null
-  },
-  "CVE-2022-21907": {
-    "first_seen_in": "2022-003",
-    "first_seen_date": null
-  },
-  "CVE-2022-21837": {
-    "first_seen_in": "2022-003",
-    "first_seen_date": null
-  },
-  "CVE-2022-21855": {
-    "first_seen_in": "2022-003",
-    "first_seen_date": null
-  },
-  "CVE-2022-21846": {
-    "first_seen_in": "2022-003",
-    "first_seen_date": null
-  },
   "CVE-2022-21841": {
     "first_seen_in": "2022-003",
     "first_seen_date": null
@@ -2119,23 +2095,31 @@
     "first_seen_in": "2022-003",
     "first_seen_date": null
   },
-  "CVE-2022-0154": {
-    "first_seen_in": "2022-004",
+  "CVE-2022-21842": {
+    "first_seen_in": "2022-003",
     "first_seen_date": null
   },
-  "CVE-2021-39927": {
-    "first_seen_in": "2022-004",
+  "CVE-2022-21837": {
+    "first_seen_in": "2022-003",
     "first_seen_date": null
   },
-  "CVE-2022-0172": {
-    "first_seen_in": "2022-004",
+  "CVE-2022-21907": {
+    "first_seen_in": "2022-003",
     "first_seen_date": null
   },
-  "CVE-2021-39942": {
-    "first_seen_in": "2022-004",
+  "CVE-2022-21855": {
+    "first_seen_in": "2022-003",
     "first_seen_date": null
   },
-  "CVE-2022-0093": {
+  "CVE-2022-21840": {
+    "first_seen_in": "2022-003",
+    "first_seen_date": null
+  },
+  "CVE-2022-21846": {
+    "first_seen_in": "2022-003",
+    "first_seen_date": null
+  },
+  "CVE-2022-0151": {
     "first_seen_in": "2022-004",
     "first_seen_date": null
   },
@@ -2143,7 +2127,11 @@
     "first_seen_in": "2022-004",
     "first_seen_date": null
   },
-  "CVE-2022-0124": {
+  "CVE-2021-39946": {
+    "first_seen_in": "2022-004",
+    "first_seen_date": null
+  },
+  "CVE-2021-39942": {
     "first_seen_in": "2022-004",
     "first_seen_date": null
   },
@@ -2151,15 +2139,27 @@
     "first_seen_in": "2022-004",
     "first_seen_date": null
   },
-  "CVE-2021-39946": {
-    "first_seen_in": "2022-004",
-    "first_seen_date": null
-  },
-  "CVE-2022-0151": {
-    "first_seen_in": "2022-004",
-    "first_seen_date": null
-  },
   "CVE-2022-0090": {
+    "first_seen_in": "2022-004",
+    "first_seen_date": null
+  },
+  "CVE-2022-0172": {
+    "first_seen_in": "2022-004",
+    "first_seen_date": null
+  },
+  "CVE-2022-0154": {
+    "first_seen_in": "2022-004",
+    "first_seen_date": null
+  },
+  "CVE-2022-0093": {
+    "first_seen_in": "2022-004",
+    "first_seen_date": null
+  },
+  "CVE-2021-39927": {
+    "first_seen_in": "2022-004",
+    "first_seen_date": null
+  },
+  "CVE-2022-0124": {
     "first_seen_in": "2022-004",
     "first_seen_date": null
   },
@@ -2195,7 +2195,7 @@
     "first_seen_in": "2022-011",
     "first_seen_date": null
   },
-  "CVE-2022-24664": {
+  "CVE-2022-24663": {
     "first_seen_in": "2022-012",
     "first_seen_date": null
   },
@@ -2203,19 +2203,11 @@
     "first_seen_in": "2022-012",
     "first_seen_date": null
   },
-  "CVE-2022-24663": {
+  "CVE-2022-24664": {
     "first_seen_in": "2022-012",
     "first_seen_date": null
   },
-  "CVE-2021-22042": {
-    "first_seen_in": "2022-013",
-    "first_seen_date": null
-  },
-  "CVE-2021-22043": {
-    "first_seen_in": "2022-013",
-    "first_seen_date": null
-  },
-  "CVE-2021-22040": {
+  "CVE-2021-22050": {
     "first_seen_in": "2022-013",
     "first_seen_date": null
   },
@@ -2223,11 +2215,19 @@
     "first_seen_in": "2022-013",
     "first_seen_date": null
   },
+  "CVE-2021-22042": {
+    "first_seen_in": "2022-013",
+    "first_seen_date": null
+  },
+  "CVE-2021-22040": {
+    "first_seen_in": "2022-013",
+    "first_seen_date": null
+  },
   "CVE-2021-22041": {
     "first_seen_in": "2022-013",
     "first_seen_date": null
   },
-  "CVE-2021-22050": {
+  "CVE-2021-22043": {
     "first_seen_in": "2022-013",
     "first_seen_date": null
   },
@@ -2251,11 +2251,11 @@
     "first_seen_in": "2022-018",
     "first_seen_date": null
   },
-  "CVE-2022-26501": {
+  "CVE-2022-26500": {
     "first_seen_in": "2022-019",
     "first_seen_date": null
   },
-  "CVE-2022-26500": {
+  "CVE-2022-26501": {
     "first_seen_in": "2022-019",
     "first_seen_date": null
   },
@@ -2275,11 +2275,11 @@
     "first_seen_in": "2022-022",
     "first_seen_date": null
   },
-  "CVE-2022-22963": {
+  "CVE-2022-22965": {
     "first_seen_in": "2022-023",
     "first_seen_date": null
   },
-  "CVE-2022-22965": {
+  "CVE-2022-22963": {
     "first_seen_in": "2022-023",
     "first_seen_date": null
   },
@@ -2287,11 +2287,7 @@
     "first_seen_in": "2022-024",
     "first_seen_date": null
   },
-  "CVE-2022-22959": {
-    "first_seen_in": "2022-025",
-    "first_seen_date": null
-  },
-  "CVE-2022-22960": {
+  "CVE-2022-22954": {
     "first_seen_in": "2022-025",
     "first_seen_date": null
   },
@@ -2299,7 +2295,7 @@
     "first_seen_in": "2022-025",
     "first_seen_date": null
   },
-  "CVE-2022-22954": {
+  "CVE-2022-22955": {
     "first_seen_in": "2022-025",
     "first_seen_date": null
   },
@@ -2307,19 +2303,27 @@
     "first_seen_in": "2022-025",
     "first_seen_date": null
   },
-  "CVE-2022-22961": {
-    "first_seen_in": "2022-025",
-    "first_seen_date": null
-  },
-  "CVE-2022-22955": {
-    "first_seen_in": "2022-025",
-    "first_seen_date": null
-  },
   "CVE-2022-22958": {
     "first_seen_in": "2022-025",
     "first_seen_date": null
   },
+  "CVE-2022-22959": {
+    "first_seen_in": "2022-025",
+    "first_seen_date": null
+  },
+  "CVE-2022-22961": {
+    "first_seen_in": "2022-025",
+    "first_seen_date": null
+  },
+  "CVE-2022-22960": {
+    "first_seen_in": "2022-025",
+    "first_seen_date": null
+  },
   "CVE-2022-26904": {
+    "first_seen_in": "2022-026",
+    "first_seen_date": null
+  },
+  "CVE-2022-26809": {
     "first_seen_in": "2022-026",
     "first_seen_date": null
   },
@@ -2328,10 +2332,6 @@
     "first_seen_date": null
   },
   "CVE-2022-24497": {
-    "first_seen_in": "2022-026",
-    "first_seen_date": null
-  },
-  "CVE-2022-26809": {
     "first_seen_in": "2022-026",
     "first_seen_date": null
   },
@@ -2375,10 +2375,6 @@
     "first_seen_in": "2022-034",
     "first_seen_date": null
   },
-  "CVE-2022-26925": {
-    "first_seen_in": "2022-034",
-    "first_seen_date": null
-  },
   "CVE-2022-26923": {
     "first_seen_in": "2022-034",
     "first_seen_date": null
@@ -2387,15 +2383,19 @@
     "first_seen_in": "2022-034",
     "first_seen_date": null
   },
+  "CVE-2022-26925": {
+    "first_seen_in": "2022-034",
+    "first_seen_date": null
+  },
   "CVE-2022-30525": {
     "first_seen_in": "2022-035",
     "first_seen_date": null
   },
-  "CVE-2022-22973": {
+  "CVE-2022-22972": {
     "first_seen_in": "2022-036",
     "first_seen_date": null
   },
-  "CVE-2022-22972": {
+  "CVE-2022-22973": {
     "first_seen_in": "2022-036",
     "first_seen_date": null
   },
@@ -2447,7 +2447,7 @@
     "first_seen_in": "2022-048",
     "first_seen_date": null
   },
-  "CVE-2022-22029": {
+  "CVE-2022-22038": {
     "first_seen_in": "2022-050",
     "first_seen_date": null
   },
@@ -2459,19 +2459,19 @@
     "first_seen_in": "2022-050",
     "first_seen_date": null
   },
-  "CVE-2022-22038": {
-    "first_seen_in": "2022-050",
-    "first_seen_date": null
-  },
   "CVE-2022-22047": {
     "first_seen_in": "2022-050",
     "first_seen_date": null
   },
-  "CVE-2022-20857": {
-    "first_seen_in": "2022-051",
+  "CVE-2022-22029": {
+    "first_seen_in": "2022-050",
     "first_seen_date": null
   },
   "CVE-2022-20861": {
+    "first_seen_in": "2022-051",
+    "first_seen_date": null
+  },
+  "CVE-2022-20857": {
     "first_seen_in": "2022-051",
     "first_seen_date": null
   },
@@ -2483,19 +2483,7 @@
     "first_seen_in": "2022-054",
     "first_seen_date": null
   },
-  "CVE-2022-2031": {
-    "first_seen_in": "2022-056",
-    "first_seen_date": null
-  },
   "CVE-2022-32745": {
-    "first_seen_in": "2022-056",
-    "first_seen_date": null
-  },
-  "CVE-2022-32742": {
-    "first_seen_in": "2022-056",
-    "first_seen_date": null
-  },
-  "CVE-2022-32746": {
     "first_seen_in": "2022-056",
     "first_seen_date": null
   },
@@ -2503,15 +2491,19 @@
     "first_seen_in": "2022-056",
     "first_seen_date": null
   },
-  "CVE-2022-31656": {
-    "first_seen_in": "2022-057",
+  "CVE-2022-32746": {
+    "first_seen_in": "2022-056",
     "first_seen_date": null
   },
-  "CVE-2022-31661": {
-    "first_seen_in": "2022-057",
+  "CVE-2022-2031": {
+    "first_seen_in": "2022-056",
     "first_seen_date": null
   },
-  "CVE-2022-31659": {
+  "CVE-2022-32742": {
+    "first_seen_in": "2022-056",
+    "first_seen_date": null
+  },
+  "CVE-2022-31662": {
     "first_seen_in": "2022-057",
     "first_seen_date": null
   },
@@ -2519,15 +2511,7 @@
     "first_seen_in": "2022-057",
     "first_seen_date": null
   },
-  "CVE-2022-31662": {
-    "first_seen_in": "2022-057",
-    "first_seen_date": null
-  },
-  "CVE-2022-31663": {
-    "first_seen_in": "2022-057",
-    "first_seen_date": null
-  },
-  "CVE-2022-31657": {
+  "CVE-2022-31659": {
     "first_seen_in": "2022-057",
     "first_seen_date": null
   },
@@ -2535,7 +2519,19 @@
     "first_seen_in": "2022-057",
     "first_seen_date": null
   },
+  "CVE-2022-31661": {
+    "first_seen_in": "2022-057",
+    "first_seen_date": null
+  },
+  "CVE-2022-31663": {
+    "first_seen_in": "2022-057",
+    "first_seen_date": null
+  },
   "CVE-2022-31665": {
+    "first_seen_in": "2022-057",
+    "first_seen_date": null
+  },
+  "CVE-2022-31656": {
     "first_seen_in": "2022-057",
     "first_seen_date": null
   },
@@ -2543,8 +2539,16 @@
     "first_seen_in": "2022-057",
     "first_seen_date": null
   },
+  "CVE-2022-31657": {
+    "first_seen_in": "2022-057",
+    "first_seen_date": null
+  },
   "CVE-2022-33891": {
     "first_seen_in": "2022-058",
+    "first_seen_date": null
+  },
+  "CVE-2022-20841": {
+    "first_seen_in": "2022-059",
     "first_seen_date": null
   },
   "CVE-2022-20842": {
@@ -2555,15 +2559,11 @@
     "first_seen_in": "2022-059",
     "first_seen_date": null
   },
-  "CVE-2022-20841": {
-    "first_seen_in": "2022-059",
-    "first_seen_date": null
-  },
-  "CVE-2022-34713": {
+  "CVE-2022-30134": {
     "first_seen_in": "2022-060",
     "first_seen_date": null
   },
-  "CVE-2022-30134": {
+  "CVE-2022-34713": {
     "first_seen_in": "2022-060",
     "first_seen_date": null
   },
@@ -2579,11 +2579,7 @@
     "first_seen_in": "2022-063",
     "first_seen_date": null
   },
-  "CVE-2022-37969": {
-    "first_seen_in": "2022-064",
-    "first_seen_date": null
-  },
-  "CVE-2022-34722": {
+  "CVE-2022-23960": {
     "first_seen_in": "2022-064",
     "first_seen_date": null
   },
@@ -2591,15 +2587,11 @@
     "first_seen_in": "2022-064",
     "first_seen_date": null
   },
+  "CVE-2022-34722": {
+    "first_seen_in": "2022-064",
+    "first_seen_date": null
+  },
   "CVE-2022-34700": {
-    "first_seen_in": "2022-064",
-    "first_seen_date": null
-  },
-  "CVE-2022-23960": {
-    "first_seen_in": "2022-064",
-    "first_seen_date": null
-  },
-  "CVE-2022-34718": {
     "first_seen_in": "2022-064",
     "first_seen_date": null
   },
@@ -2607,12 +2599,16 @@
     "first_seen_in": "2022-064",
     "first_seen_date": null
   },
-  "CVE-2022-3236": {
-    "first_seen_in": "2022-065",
+  "CVE-2022-37969": {
+    "first_seen_in": "2022-064",
     "first_seen_date": null
   },
-  "CVE-2022-2906": {
-    "first_seen_in": "2022-066",
+  "CVE-2022-34718": {
+    "first_seen_in": "2022-064",
+    "first_seen_date": null
+  },
+  "CVE-2022-3236": {
+    "first_seen_in": "2022-065",
     "first_seen_date": null
   },
   "CVE-2022-38178": {
@@ -2623,16 +2619,24 @@
     "first_seen_in": "2022-066",
     "first_seen_date": null
   },
+  "CVE-2022-2906": {
+    "first_seen_in": "2022-066",
+    "first_seen_date": null
+  },
   "CVE-2022-3080": {
     "first_seen_in": "2022-066",
+    "first_seen_date": null
+  },
+  "CVE-2022-36934": {
+    "first_seen_in": "2022-067",
     "first_seen_date": null
   },
   "CVE-2022-27492": {
     "first_seen_in": "2022-067",
     "first_seen_date": null
   },
-  "CVE-2022-36934": {
-    "first_seen_in": "2022-067",
+  "CVE-2022-41080": {
+    "first_seen_in": "2022-068",
     "first_seen_date": null
   },
   "CVE-2022-41082": {
@@ -2643,8 +2647,12 @@
     "first_seen_in": "2022-068",
     "first_seen_date": null
   },
-  "CVE-2022-41080": {
-    "first_seen_in": "2022-068",
+  "CVE-2022-41352": {
+    "first_seen_in": "2022-069",
+    "first_seen_date": null
+  },
+  "CVE-2022-41348": {
+    "first_seen_in": "2022-069",
     "first_seen_date": null
   },
   "CVE-2022-37393": {
@@ -2655,31 +2663,11 @@
     "first_seen_in": "2022-069",
     "first_seen_date": null
   },
-  "CVE-2022-41352": {
-    "first_seen_in": "2022-069",
-    "first_seen_date": null
-  },
-  "CVE-2022-41348": {
-    "first_seen_in": "2022-069",
-    "first_seen_date": null
-  },
   "CVE-2022-40684": {
     "first_seen_in": "2022-070",
     "first_seen_date": null
   },
-  "CVE-2022-22242": {
-    "first_seen_in": "2022-071",
-    "first_seen_date": null
-  },
   "CVE-2022-22241": {
-    "first_seen_in": "2022-071",
-    "first_seen_date": null
-  },
-  "CVE-2022-22244": {
-    "first_seen_in": "2022-071",
-    "first_seen_date": null
-  },
-  "CVE-2022-22243": {
     "first_seen_in": "2022-071",
     "first_seen_date": null
   },
@@ -2688,6 +2676,18 @@
     "first_seen_date": null
   },
   "CVE-2022-22245": {
+    "first_seen_in": "2022-071",
+    "first_seen_date": null
+  },
+  "CVE-2022-22243": {
+    "first_seen_in": "2022-071",
+    "first_seen_date": null
+  },
+  "CVE-2022-22242": {
+    "first_seen_in": "2022-071",
+    "first_seen_date": null
+  },
+  "CVE-2022-22244": {
     "first_seen_in": "2022-071",
     "first_seen_date": null
   },
@@ -2703,11 +2703,11 @@
     "first_seen_in": "2022-073",
     "first_seen_date": null
   },
-  "CVE-2022-35258": {
+  "CVE-2022-35254": {
     "first_seen_in": "2022-074",
     "first_seen_date": null
   },
-  "CVE-2022-35254": {
+  "CVE-2022-35258": {
     "first_seen_in": "2022-074",
     "first_seen_date": null
   },
@@ -2719,6 +2719,10 @@
     "first_seen_in": "2022-076",
     "first_seen_date": null
   },
+  "CVE-2022-43571": {
+    "first_seen_in": "2022-077",
+    "first_seen_date": null
+  },
   "CVE-2022-43568": {
     "first_seen_in": "2022-077",
     "first_seen_date": null
@@ -2727,15 +2731,7 @@
     "first_seen_in": "2022-077",
     "first_seen_date": null
   },
-  "CVE-2022-43571": {
-    "first_seen_in": "2022-077",
-    "first_seen_date": null
-  },
   "CVE-2022-27516": {
-    "first_seen_in": "2022-078",
-    "first_seen_date": null
-  },
-  "CVE-2022-27513": {
     "first_seen_in": "2022-078",
     "first_seen_date": null
   },
@@ -2743,7 +2739,15 @@
     "first_seen_in": "2022-078",
     "first_seen_date": null
   },
+  "CVE-2022-27513": {
+    "first_seen_in": "2022-078",
+    "first_seen_date": null
+  },
   "CVE-2022-41125": {
+    "first_seen_in": "2022-079",
+    "first_seen_date": null
+  },
+  "CVE-2022-41128": {
     "first_seen_in": "2022-079",
     "first_seen_date": null
   },
@@ -2755,15 +2759,11 @@
     "first_seen_in": "2022-079",
     "first_seen_date": null
   },
-  "CVE-2022-41128": {
-    "first_seen_in": "2022-079",
-    "first_seen_date": null
-  },
-  "CVE-2022-41800": {
+  "CVE-2022-41622": {
     "first_seen_in": "2022-080",
     "first_seen_date": null
   },
-  "CVE-2022-41622": {
+  "CVE-2022-41800": {
     "first_seen_in": "2022-080",
     "first_seen_date": null
   },
@@ -2775,19 +2775,7 @@
     "first_seen_in": "2022-081",
     "first_seen_date": null
   },
-  "CVE-2022-36964": {
-    "first_seen_in": "2022-082",
-    "first_seen_date": null
-  },
-  "CVE-2022-36960": {
-    "first_seen_in": "2022-082",
-    "first_seen_date": null
-  },
-  "CVE-2022-38108": {
-    "first_seen_in": "2022-082",
-    "first_seen_date": null
-  },
-  "CVE-2022-36962": {
+  "CVE-2022-36958": {
     "first_seen_in": "2022-082",
     "first_seen_date": null
   },
@@ -2795,19 +2783,31 @@
     "first_seen_in": "2022-082",
     "first_seen_date": null
   },
+  "CVE-2022-38108": {
+    "first_seen_in": "2022-082",
+    "first_seen_date": null
+  },
+  "CVE-2022-36960": {
+    "first_seen_in": "2022-082",
+    "first_seen_date": null
+  },
   "CVE-2022-36966": {
     "first_seen_in": "2022-082",
     "first_seen_date": null
   },
-  "CVE-2022-36958": {
+  "CVE-2022-36964": {
     "first_seen_in": "2022-082",
     "first_seen_date": null
   },
-  "CVE-2022-34671": {
-    "first_seen_in": "2022-083",
+  "CVE-2022-36962": {
+    "first_seen_in": "2022-082",
     "first_seen_date": null
   },
   "CVE-2022-34669": {
+    "first_seen_in": "2022-083",
+    "first_seen_date": null
+  },
+  "CVE-2022-34671": {
     "first_seen_in": "2022-083",
     "first_seen_date": null
   },
@@ -2835,19 +2835,19 @@
     "first_seen_in": "2023-002",
     "first_seen_date": null
   },
-  "CVE-2022-23521": {
-    "first_seen_in": "2023-002",
-    "first_seen_date": null
-  },
   "CVE-2022-41903": {
     "first_seen_in": "2023-002",
     "first_seen_date": null
   },
-  "CVE-2022-31704": {
-    "first_seen_in": "2023-003",
+  "CVE-2022-23521": {
+    "first_seen_in": "2023-002",
     "first_seen_date": null
   },
   "CVE-2022-31706": {
+    "first_seen_in": "2023-003",
+    "first_seen_date": null
+  },
+  "CVE-2022-31704": {
     "first_seen_in": "2023-003",
     "first_seen_date": null
   },
@@ -2871,23 +2871,11 @@
     "first_seen_in": "2023-008",
     "first_seen_date": null
   },
-  "CVE-2023-21715": {
-    "first_seen_in": "2023-009",
-    "first_seen_date": null
-  },
-  "CVE-2023-21823": {
-    "first_seen_in": "2023-009",
-    "first_seen_date": null
-  },
   "CVE-2023-21529": {
     "first_seen_in": "2023-009",
     "first_seen_date": null
   },
-  "CVE-2023-23376": {
-    "first_seen_in": "2023-009",
-    "first_seen_date": null
-  },
-  "CVE-2023-21706": {
+  "CVE-2023-21715": {
     "first_seen_in": "2023-009",
     "first_seen_date": null
   },
@@ -2895,8 +2883,16 @@
     "first_seen_in": "2023-009",
     "first_seen_date": null
   },
-  "CVE-2023-24486": {
-    "first_seen_in": "2023-010",
+  "CVE-2023-23376": {
+    "first_seen_in": "2023-009",
+    "first_seen_date": null
+  },
+  "CVE-2023-21823": {
+    "first_seen_in": "2023-009",
+    "first_seen_date": null
+  },
+  "CVE-2023-21706": {
+    "first_seen_in": "2023-009",
     "first_seen_date": null
   },
   "CVE-2023-24483": {
@@ -2904,6 +2900,10 @@
     "first_seen_date": null
   },
   "CVE-2023-24484": {
+    "first_seen_in": "2023-010",
+    "first_seen_date": null
+  },
+  "CVE-2023-24486": {
     "first_seen_in": "2023-010",
     "first_seen_date": null
   },
@@ -2915,19 +2915,19 @@
     "first_seen_in": "2023-011",
     "first_seen_date": null
   },
-  "CVE-2022-39952": {
-    "first_seen_in": "2023-012",
-    "first_seen_date": null
-  },
   "CVE-2021-42756": {
     "first_seen_in": "2023-012",
     "first_seen_date": null
   },
-  "CVE-2022-48329": {
-    "first_seen_in": "2023-013",
+  "CVE-2022-39952": {
+    "first_seen_in": "2023-012",
     "first_seen_date": null
   },
   "CVE-2022-48328": {
+    "first_seen_in": "2023-013",
+    "first_seen_date": null
+  },
+  "CVE-2022-48329": {
     "first_seen_in": "2023-013",
     "first_seen_date": null
   },
@@ -2967,6 +2967,10 @@
     "first_seen_in": "2023-019",
     "first_seen_date": null
   },
+  "CVE-2023-25616": {
+    "first_seen_in": "2023-019",
+    "first_seen_date": null
+  },
   "CVE-2023-27500": {
     "first_seen_in": "2023-019",
     "first_seen_date": null
@@ -2975,27 +2979,23 @@
     "first_seen_in": "2023-019",
     "first_seen_date": null
   },
-  "CVE-2023-25616": {
-    "first_seen_in": "2023-019",
-    "first_seen_date": null
-  },
   "CVE-2023-23392": {
     "first_seen_in": "2023-020",
-    "first_seen_date": null
-  },
-  "CVE-2022-41272": {
-    "first_seen_in": "2023-021",
     "first_seen_date": null
   },
   "CVE-2023-27497": {
     "first_seen_in": "2023-021",
     "first_seen_date": null
   },
-  "CVE-2023-28765": {
+  "CVE-2022-41272": {
     "first_seen_in": "2023-021",
     "first_seen_date": null
   },
   "CVE-2023-27267": {
+    "first_seen_in": "2023-021",
+    "first_seen_date": null
+  },
+  "CVE-2023-28765": {
     "first_seen_in": "2023-021",
     "first_seen_date": null
   },
@@ -3007,15 +3007,15 @@
     "first_seen_in": "2023-023",
     "first_seen_date": null
   },
-  "CVE-2022-1096": {
-    "first_seen_in": "2023-024",
-    "first_seen_date": null
-  },
   "CVE-2022-1364": {
     "first_seen_in": "2023-024",
     "first_seen_date": null
   },
   "CVE-2023-2033": {
+    "first_seen_in": "2023-024",
+    "first_seen_date": null
+  },
+  "CVE-2022-1096": {
     "first_seen_in": "2023-024",
     "first_seen_date": null
   },
@@ -3031,11 +3031,11 @@
     "first_seen_in": "2023-028",
     "first_seen_date": null
   },
-  "CVE-2023-29325": {
+  "CVE-2023-24932": {
     "first_seen_in": "2023-028",
     "first_seen_date": null
   },
-  "CVE-2023-24932": {
+  "CVE-2023-29325": {
     "first_seen_in": "2023-028",
     "first_seen_date": null
   },
@@ -3063,7 +3063,7 @@
     "first_seen_in": "2023-033",
     "first_seen_date": null
   },
-  "CVE-2023-32708": {
+  "CVE-2023-32707": {
     "first_seen_in": "2023-034",
     "first_seen_date": null
   },
@@ -3075,11 +3075,11 @@
     "first_seen_in": "2023-034",
     "first_seen_date": null
   },
-  "CVE-2023-32707": {
+  "CVE-2023-32706": {
     "first_seen_in": "2023-034",
     "first_seen_date": null
   },
-  "CVE-2023-32706": {
+  "CVE-2023-32708": {
     "first_seen_in": "2023-034",
     "first_seen_date": null
   },
@@ -3091,11 +3091,11 @@
     "first_seen_in": "2023-036",
     "first_seen_date": null
   },
-  "CVE-2023-20889": {
+  "CVE-2023-20888": {
     "first_seen_in": "2023-036",
     "first_seen_date": null
   },
-  "CVE-2023-20888": {
+  "CVE-2023-20889": {
     "first_seen_in": "2023-036",
     "first_seen_date": null
   },
@@ -3119,32 +3119,12 @@
     "first_seen_in": "2023-038",
     "first_seen_date": null
   },
-  "CVE-2023-29179": {
-    "first_seen_in": "2023-038",
-    "first_seen_date": null
-  },
   "CVE-2023-22640": {
     "first_seen_in": "2023-038",
     "first_seen_date": null
   },
-  "CVE-2023-32029": {
-    "first_seen_in": "2023-039",
-    "first_seen_date": null
-  },
-  "CVE-2023-33140": {
-    "first_seen_in": "2023-039",
-    "first_seen_date": null
-  },
-  "CVE-2023-33133": {
-    "first_seen_in": "2023-039",
-    "first_seen_date": null
-  },
-  "CVE-2023-29357": {
-    "first_seen_in": "2023-039",
-    "first_seen_date": null
-  },
-  "CVE-2023-24955": {
-    "first_seen_in": "2023-039",
+  "CVE-2023-29179": {
+    "first_seen_in": "2023-038",
     "first_seen_date": null
   },
   "CVE-2023-32031": {
@@ -3155,11 +3135,31 @@
     "first_seen_in": "2023-039",
     "first_seen_date": null
   },
+  "CVE-2023-33140": {
+    "first_seen_in": "2023-039",
+    "first_seen_date": null
+  },
+  "CVE-2023-32029": {
+    "first_seen_in": "2023-039",
+    "first_seen_date": null
+  },
+  "CVE-2023-33133": {
+    "first_seen_in": "2023-039",
+    "first_seen_date": null
+  },
+  "CVE-2023-24955": {
+    "first_seen_in": "2023-039",
+    "first_seen_date": null
+  },
+  "CVE-2023-29357": {
+    "first_seen_in": "2023-039",
+    "first_seen_date": null
+  },
   "CVE-2023-33131": {
     "first_seen_in": "2023-039",
     "first_seen_date": null
   },
-  "CVE-2023-20892": {
+  "CVE-2023-20893": {
     "first_seen_in": "2023-040",
     "first_seen_date": null
   },
@@ -3167,11 +3167,11 @@
     "first_seen_in": "2023-040",
     "first_seen_date": null
   },
-  "CVE-2023-20893": {
+  "CVE-2023-20892": {
     "first_seen_in": "2023-040",
     "first_seen_date": null
   },
-  "CVE-2023-2829": {
+  "CVE-2022-3924": {
     "first_seen_in": "2023-041",
     "first_seen_date": null
   },
@@ -3183,7 +3183,7 @@
     "first_seen_in": "2023-041",
     "first_seen_date": null
   },
-  "CVE-2022-3924": {
+  "CVE-2023-2829": {
     "first_seen_in": "2023-041",
     "first_seen_date": null
   },
@@ -3195,11 +3195,7 @@
     "first_seen_in": "2023-043",
     "first_seen_date": null
   },
-  "CVE-2023-35311": {
-    "first_seen_in": "2023-045",
-    "first_seen_date": null
-  },
-  "CVE-2023-36884": {
+  "CVE-2023-32049": {
     "first_seen_in": "2023-045",
     "first_seen_date": null
   },
@@ -3207,11 +3203,15 @@
     "first_seen_in": "2023-045",
     "first_seen_date": null
   },
+  "CVE-2023-36884": {
+    "first_seen_in": "2023-045",
+    "first_seen_date": null
+  },
   "CVE-2023-32046": {
     "first_seen_in": "2023-045",
     "first_seen_date": null
   },
-  "CVE-2023-32049": {
+  "CVE-2023-35311": {
     "first_seen_in": "2023-045",
     "first_seen_date": null
   },
@@ -3227,14 +3227,6 @@
     "first_seen_in": "2023-048",
     "first_seen_date": null
   },
-  "CVE-2023-34123": {
-    "first_seen_in": "2023-048",
-    "first_seen_date": null
-  },
-  "CVE-2023-34137": {
-    "first_seen_in": "2023-048",
-    "first_seen_date": null
-  },
   "CVE-2023-34129": {
     "first_seen_in": "2023-048",
     "first_seen_date": null
@@ -3243,7 +3235,7 @@
     "first_seen_in": "2023-048",
     "first_seen_date": null
   },
-  "CVE-2023-34133": {
+  "CVE-2023-34126": {
     "first_seen_in": "2023-048",
     "first_seen_date": null
   },
@@ -3251,7 +3243,15 @@
     "first_seen_in": "2023-048",
     "first_seen_date": null
   },
-  "CVE-2023-34126": {
+  "CVE-2023-34133": {
+    "first_seen_in": "2023-048",
+    "first_seen_date": null
+  },
+  "CVE-2023-34123": {
+    "first_seen_in": "2023-048",
+    "first_seen_date": null
+  },
+  "CVE-2023-34137": {
     "first_seen_in": "2023-048",
     "first_seen_date": null
   },
@@ -3259,7 +3259,7 @@
     "first_seen_in": "2023-049",
     "first_seen_date": null
   },
-  "CVE-2023-3519": {
+  "CVE-2023-3466": {
     "first_seen_in": "2023-050",
     "first_seen_date": null
   },
@@ -3267,12 +3267,16 @@
     "first_seen_in": "2023-050",
     "first_seen_date": null
   },
-  "CVE-2023-3466": {
+  "CVE-2023-3519": {
     "first_seen_in": "2023-050",
     "first_seen_date": null
   },
   "CVE-2023-38408": {
     "first_seen_in": "2023-051",
+    "first_seen_date": null
+  },
+  "CVE-2023-22506": {
+    "first_seen_in": "2023-052",
     "first_seen_date": null
   },
   "CVE-2023-22505": {
@@ -3283,19 +3287,15 @@
     "first_seen_in": "2023-052",
     "first_seen_date": null
   },
-  "CVE-2023-22506": {
-    "first_seen_in": "2023-052",
-    "first_seen_date": null
-  },
   "CVE-2023-35078": {
     "first_seen_in": "2023-053",
     "first_seen_date": null
   },
-  "CVE-2023-32629": {
+  "CVE-2023-2640": {
     "first_seen_in": "2023-054",
     "first_seen_date": null
   },
-  "CVE-2023-2640": {
+  "CVE-2023-32629": {
     "first_seen_in": "2023-054",
     "first_seen_date": null
   },
@@ -3307,7 +3307,7 @@
     "first_seen_in": "2023-056",
     "first_seen_date": null
   },
-  "CVE-2023-35385": {
+  "CVE-2023-29330": {
     "first_seen_in": "2023-057",
     "first_seen_date": null
   },
@@ -3315,19 +3315,19 @@
     "first_seen_in": "2023-057",
     "first_seen_date": null
   },
-  "CVE-2023-29330": {
-    "first_seen_in": "2023-057",
-    "first_seen_date": null
-  },
-  "CVE-2023-36895": {
-    "first_seen_in": "2023-057",
-    "first_seen_date": null
-  },
   "CVE-2023-36910": {
     "first_seen_in": "2023-057",
     "first_seen_date": null
   },
+  "CVE-2023-35385": {
+    "first_seen_in": "2023-057",
+    "first_seen_date": null
+  },
   "CVE-2023-36911": {
+    "first_seen_in": "2023-057",
+    "first_seen_date": null
+  },
+  "CVE-2023-36895": {
     "first_seen_in": "2023-057",
     "first_seen_date": null
   },
@@ -3343,7 +3343,7 @@
     "first_seen_in": "2023-059",
     "first_seen_date": null
   },
-  "CVE-2023-20898": {
+  "CVE-2023-20890": {
     "first_seen_in": "2023-060",
     "first_seen_date": null
   },
@@ -3351,63 +3351,27 @@
     "first_seen_in": "2023-060",
     "first_seen_date": null
   },
-  "CVE-2023-20890": {
+  "CVE-2023-20898": {
     "first_seen_in": "2023-060",
-    "first_seen_date": null
-  },
-  "CVE-2023-41064": {
-    "first_seen_in": "2023-061",
     "first_seen_date": null
   },
   "CVE-2023-41061": {
     "first_seen_in": "2023-061",
     "first_seen_date": null
   },
-  "CVE-2023-4863": {
-    "first_seen_in": "2023-063",
+  "CVE-2023-41064": {
+    "first_seen_in": "2023-061",
     "first_seen_date": null
   },
   "CVE-2023-5217": {
     "first_seen_in": "2023-063",
     "first_seen_date": null
   },
-  "CVE-2023-36766": {
-    "first_seen_in": "2023-064",
+  "CVE-2023-4863": {
+    "first_seen_in": "2023-063",
     "first_seen_date": null
   },
-  "CVE-2023-36759": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38162": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38155": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38143": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36760": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36805": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36762": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36744": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38150": {
+  "CVE-2023-36788": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
@@ -3415,35 +3379,11 @@
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
-  "CVE-2023-36792": {
+  "CVE-2023-38139": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
-  "CVE-2023-36800": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-35355": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38156": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36763": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-33136": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36794": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36886": {
+  "CVE-2023-38161": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
@@ -3451,47 +3391,7 @@
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
-  "CVE-2023-38160": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36793": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36758": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38144": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38140": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36764": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36773": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36765": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36770": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36742": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-41764": {
+  "CVE-2023-36766": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
@@ -3499,35 +3399,7 @@
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
-  "CVE-2023-36796": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38152": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38148": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38139": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36771": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36736": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36757": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36801": {
+  "CVE-2023-36803": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
@@ -3535,23 +3407,7 @@
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
-  "CVE-2023-29332": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36803": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38163": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38164": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-38149": {
+  "CVE-2023-38160": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
@@ -3559,7 +3415,23 @@
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
-  "CVE-2023-36739": {
+  "CVE-2023-36796": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36757": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38163": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36804": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36760": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
@@ -3571,19 +3443,27 @@
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
+  "CVE-2023-36736": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38155": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36739": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36765": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36770": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
   "CVE-2023-36767": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36788": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36804": {
-    "first_seen_in": "2023-064",
-    "first_seen_date": null
-  },
-  "CVE-2023-36799": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
@@ -3599,7 +3479,127 @@
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
-  "CVE-2023-38161": {
+  "CVE-2023-29332": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36742": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36794": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36805": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38143": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36771": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36773": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38140": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36800": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36799": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38148": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-41764": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38150": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38144": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36758": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36793": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-35355": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38152": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36764": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36792": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38164": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38156": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38162": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36744": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36801": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36759": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36762": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36886": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-36763": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-38149": {
+    "first_seen_in": "2023-064",
+    "first_seen_date": null
+  },
+  "CVE-2023-33136": {
     "first_seen_in": "2023-064",
     "first_seen_date": null
   },
@@ -3623,19 +3623,19 @@
     "first_seen_in": "2023-068",
     "first_seen_date": null
   },
-  "CVE-2023-42824": {
-    "first_seen_in": "2023-069",
-    "first_seen_date": null
-  },
   "CVE-2023-41991": {
     "first_seen_in": "2023-069",
     "first_seen_date": null
   },
-  "CVE-2023-41993": {
+  "CVE-2023-41992": {
     "first_seen_in": "2023-069",
     "first_seen_date": null
   },
-  "CVE-2023-41992": {
+  "CVE-2023-42824": {
+    "first_seen_in": "2023-069",
+    "first_seen_date": null
+  },
+  "CVE-2023-41993": {
     "first_seen_in": "2023-069",
     "first_seen_date": null
   },
@@ -3651,15 +3651,15 @@
     "first_seen_in": "2023-071",
     "first_seen_date": null
   },
-  "CVE-2023-20034": {
-    "first_seen_in": "2023-071",
-    "first_seen_date": null
-  },
   "CVE-2023-20262": {
     "first_seen_in": "2023-071",
     "first_seen_date": null
   },
   "CVE-2023-20254": {
+    "first_seen_in": "2023-071",
+    "first_seen_date": null
+  },
+  "CVE-2023-20034": {
     "first_seen_in": "2023-071",
     "first_seen_date": null
   },
@@ -3679,20 +3679,16 @@
     "first_seen_in": "2023-074",
     "first_seen_date": null
   },
-  "CVE-2023-4966": {
+  "CVE-2023-4967": {
     "first_seen_in": "2023-075",
     "first_seen_date": null
   },
-  "CVE-2023-4967": {
+  "CVE-2023-4966": {
     "first_seen_in": "2023-075",
     "first_seen_date": null
   },
   "CVE-2023-38545": {
     "first_seen_in": "2023-076",
-    "first_seen_date": null
-  },
-  "CVE-2023-36563": {
-    "first_seen_in": "2023-077",
     "first_seen_date": null
   },
   "CVE-2023-35349": {
@@ -3707,11 +3703,15 @@
     "first_seen_in": "2023-077",
     "first_seen_date": null
   },
+  "CVE-2023-36434": {
+    "first_seen_in": "2023-077",
+    "first_seen_date": null
+  },
   "CVE-2023-36778": {
     "first_seen_in": "2023-077",
     "first_seen_date": null
   },
-  "CVE-2023-36434": {
+  "CVE-2023-36563": {
     "first_seen_in": "2023-077",
     "first_seen_date": null
   },
@@ -3723,19 +3723,19 @@
     "first_seen_in": "2023-078",
     "first_seen_date": null
   },
-  "CVE-2023-44186": {
-    "first_seen_in": "2023-079",
-    "first_seen_date": null
-  },
   "CVE-2023-44194": {
     "first_seen_in": "2023-079",
     "first_seen_date": null
   },
-  "CVE-2023-35186": {
+  "CVE-2023-44186": {
+    "first_seen_in": "2023-079",
+    "first_seen_date": null
+  },
+  "CVE-2023-35180": {
     "first_seen_in": "2023-080",
     "first_seen_date": null
   },
-  "CVE-2023-35182": {
+  "CVE-2023-35181": {
     "first_seen_in": "2023-080",
     "first_seen_date": null
   },
@@ -3747,19 +3747,19 @@
     "first_seen_in": "2023-080",
     "first_seen_date": null
   },
-  "CVE-2023-35181": {
+  "CVE-2023-35187": {
+    "first_seen_in": "2023-080",
+    "first_seen_date": null
+  },
+  "CVE-2023-35182": {
+    "first_seen_in": "2023-080",
+    "first_seen_date": null
+  },
+  "CVE-2023-35186": {
     "first_seen_in": "2023-080",
     "first_seen_date": null
   },
   "CVE-2023-35184": {
-    "first_seen_in": "2023-080",
-    "first_seen_date": null
-  },
-  "CVE-2023-35180": {
-    "first_seen_in": "2023-080",
-    "first_seen_date": null
-  },
-  "CVE-2023-35187": {
     "first_seen_in": "2023-080",
     "first_seen_date": null
   },
@@ -3771,11 +3771,11 @@
     "first_seen_in": "2023-081",
     "first_seen_date": null
   },
-  "CVE-2023-44311": {
+  "CVE-2023-42628": {
     "first_seen_in": "2023-082",
     "first_seen_date": null
   },
-  "CVE-2023-42629": {
+  "CVE-2023-44311": {
     "first_seen_in": "2023-082",
     "first_seen_date": null
   },
@@ -3783,15 +3783,15 @@
     "first_seen_in": "2023-082",
     "first_seen_date": null
   },
-  "CVE-2023-44310": {
-    "first_seen_in": "2023-082",
-    "first_seen_date": null
-  },
   "CVE-2023-42627": {
     "first_seen_in": "2023-082",
     "first_seen_date": null
   },
-  "CVE-2023-42628": {
+  "CVE-2023-42629": {
+    "first_seen_in": "2023-082",
+    "first_seen_date": null
+  },
+  "CVE-2023-44310": {
     "first_seen_in": "2023-082",
     "first_seen_date": null
   },
@@ -3799,11 +3799,11 @@
     "first_seen_in": "2023-083",
     "first_seen_date": null
   },
-  "CVE-2023-34056": {
+  "CVE-2023-34048": {
     "first_seen_in": "2023-084",
     "first_seen_date": null
   },
-  "CVE-2023-34048": {
+  "CVE-2023-34056": {
     "first_seen_in": "2023-084",
     "first_seen_date": null
   },
@@ -3811,11 +3811,11 @@
     "first_seen_in": "2023-085",
     "first_seen_date": null
   },
-  "CVE-2023-38547": {
+  "CVE-2023-38548": {
     "first_seen_in": "2023-086",
     "first_seen_date": null
   },
-  "CVE-2023-38548": {
+  "CVE-2023-38547": {
     "first_seen_in": "2023-086",
     "first_seen_date": null
   },
@@ -3827,11 +3827,11 @@
     "first_seen_in": "2023-087",
     "first_seen_date": null
   },
-  "CVE-2023-39335": {
+  "CVE-2023-39337": {
     "first_seen_in": "2023-088",
     "first_seen_date": null
   },
-  "CVE-2023-39337": {
+  "CVE-2023-39335": {
     "first_seen_in": "2023-088",
     "first_seen_date": null
   },
@@ -3839,7 +3839,7 @@
     "first_seen_in": "2023-089",
     "first_seen_date": null
   },
-  "CVE-2023-36036": {
+  "CVE-2023-36033": {
     "first_seen_in": "2023-090",
     "first_seen_date": null
   },
@@ -3847,15 +3847,15 @@
     "first_seen_in": "2023-090",
     "first_seen_date": null
   },
-  "CVE-2023-36033": {
+  "CVE-2023-36025": {
+    "first_seen_in": "2023-090",
+    "first_seen_date": null
+  },
+  "CVE-2023-36036": {
     "first_seen_in": "2023-090",
     "first_seen_date": null
   },
   "CVE-2023-36038": {
-    "first_seen_in": "2023-090",
-    "first_seen_date": null
-  },
-  "CVE-2023-36025": {
     "first_seen_in": "2023-090",
     "first_seen_date": null
   },
@@ -3875,11 +3875,15 @@
     "first_seen_in": "2023-093",
     "first_seen_date": null
   },
-  "CVE-2023-6346": {
+  "CVE-2023-6348": {
     "first_seen_in": "2023-093",
     "first_seen_date": null
   },
   "CVE-2023-6347": {
+    "first_seen_in": "2023-093",
+    "first_seen_date": null
+  },
+  "CVE-2023-6346": {
     "first_seen_in": "2023-093",
     "first_seen_date": null
   },
@@ -3891,19 +3895,11 @@
     "first_seen_in": "2023-093",
     "first_seen_date": null
   },
-  "CVE-2023-6348": {
-    "first_seen_in": "2023-093",
+  "CVE-2023-22523": {
+    "first_seen_in": "2023-094",
     "first_seen_date": null
   },
   "CVE-2023-22522": {
-    "first_seen_in": "2023-094",
-    "first_seen_date": null
-  },
-  "CVE-2023-22524": {
-    "first_seen_in": "2023-094",
-    "first_seen_date": null
-  },
-  "CVE-2023-22523": {
     "first_seen_in": "2023-094",
     "first_seen_date": null
   },
@@ -3911,11 +3907,15 @@
     "first_seen_in": "2023-094",
     "first_seen_date": null
   },
+  "CVE-2023-22524": {
+    "first_seen_in": "2023-094",
+    "first_seen_date": null
+  },
   "CVE-2023-50164": {
     "first_seen_in": "2023-095",
     "first_seen_date": null
   },
-  "CVE-2023-36019": {
+  "CVE-2023-35628": {
     "first_seen_in": "2023-097",
     "first_seen_date": null
   },
@@ -3923,68 +3923,12 @@
     "first_seen_in": "2023-097",
     "first_seen_date": null
   },
-  "CVE-2023-35628": {
+  "CVE-2023-36019": {
     "first_seen_in": "2023-097",
     "first_seen_date": null
   },
   "CVE-2023-35630": {
     "first_seen_in": "2023-097",
-    "first_seen_date": null
-  },
-  "CVE-2023-46224": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46266": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46223": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46258": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46259": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46222": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46803": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46804": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46262": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46261": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46221": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-41727": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46216": {
-    "first_seen_in": "2023-099",
-    "first_seen_date": null
-  },
-  "CVE-2023-46264": {
-    "first_seen_in": "2023-099",
     "first_seen_date": null
   },
   "CVE-2023-46217": {
@@ -3995,11 +3939,11 @@
     "first_seen_in": "2023-099",
     "first_seen_date": null
   },
-  "CVE-2023-46220": {
+  "CVE-2023-46261": {
     "first_seen_in": "2023-099",
     "first_seen_date": null
   },
-  "CVE-2023-46225": {
+  "CVE-2023-46803": {
     "first_seen_in": "2023-099",
     "first_seen_date": null
   },
@@ -4012,6 +3956,62 @@
     "first_seen_date": null
   },
   "CVE-2023-46265": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46262": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46221": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46216": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46258": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46266": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46804": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46220": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-41727": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46224": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46225": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46264": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46223": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46222": {
+    "first_seen_in": "2023-099",
+    "first_seen_date": null
+  },
+  "CVE-2023-46259": {
     "first_seen_in": "2023-099",
     "first_seen_date": null
   },
@@ -4039,15 +4039,15 @@
     "first_seen_in": "2024-004",
     "first_seen_date": null
   },
-  "CVE-2024-21888": {
-    "first_seen_in": "2024-004",
-    "first_seen_date": null
-  },
   "CVE-2024-21887": {
     "first_seen_in": "2024-004",
     "first_seen_date": null
   },
   "CVE-2024-21893": {
+    "first_seen_in": "2024-004",
+    "first_seen_date": null
+  },
+  "CVE-2024-21888": {
     "first_seen_in": "2024-004",
     "first_seen_date": null
   },
@@ -4059,11 +4059,11 @@
     "first_seen_in": "2024-006",
     "first_seen_date": null
   },
-  "CVE-2023-7028": {
+  "CVE-2023-4812": {
     "first_seen_in": "2024-007",
     "first_seen_date": null
   },
-  "CVE-2023-4812": {
+  "CVE-2023-7028": {
     "first_seen_in": "2024-007",
     "first_seen_date": null
   },
@@ -4079,11 +4079,11 @@
     "first_seen_in": "2024-009",
     "first_seen_date": null
   },
-  "CVE-2023-6549": {
+  "CVE-2023-6548": {
     "first_seen_in": "2024-010",
     "first_seen_date": null
   },
-  "CVE-2023-6548": {
+  "CVE-2023-6549": {
     "first_seen_in": "2024-010",
     "first_seen_date": null
   },
@@ -4119,11 +4119,11 @@
     "first_seen_in": "2024-017",
     "first_seen_date": null
   },
-  "CVE-2024-23109": {
+  "CVE-2024-23108": {
     "first_seen_in": "2024-017",
     "first_seen_date": null
   },
-  "CVE-2024-23108": {
+  "CVE-2024-23109": {
     "first_seen_in": "2024-017",
     "first_seen_date": null
   },
@@ -4135,19 +4135,19 @@
     "first_seen_in": "2024-018",
     "first_seen_date": null
   },
-  "CVE-2024-21412": {
-    "first_seen_in": "2024-019",
-    "first_seen_date": null
-  },
-  "CVE-2024-21410": {
-    "first_seen_in": "2024-019",
-    "first_seen_date": null
-  },
   "CVE-2024-21413": {
     "first_seen_in": "2024-019",
     "first_seen_date": null
   },
   "CVE-2024-21351": {
+    "first_seen_in": "2024-019",
+    "first_seen_date": null
+  },
+  "CVE-2024-21412": {
+    "first_seen_in": "2024-019",
+    "first_seen_date": null
+  },
+  "CVE-2024-21410": {
     "first_seen_in": "2024-019",
     "first_seen_date": null
   },
@@ -4163,18 +4163,6 @@
     "first_seen_in": "2024-021",
     "first_seen_date": null
   },
-  "CVE-2024-20765": {
-    "first_seen_in": "2024-022",
-    "first_seen_date": null
-  },
-  "CVE-2024-20719": {
-    "first_seen_in": "2024-022",
-    "first_seen_date": null
-  },
-  "CVE-2024-20727": {
-    "first_seen_in": "2024-022",
-    "first_seen_date": null
-  },
   "CVE-2024-20720": {
     "first_seen_in": "2024-022",
     "first_seen_date": null
@@ -4184,6 +4172,14 @@
     "first_seen_date": null
   },
   "CVE-2024-20730": {
+    "first_seen_in": "2024-022",
+    "first_seen_date": null
+  },
+  "CVE-2024-20727": {
+    "first_seen_in": "2024-022",
+    "first_seen_date": null
+  },
+  "CVE-2024-20765": {
     "first_seen_in": "2024-022",
     "first_seen_date": null
   },
@@ -4199,12 +4195,24 @@
     "first_seen_in": "2024-022",
     "first_seen_date": null
   },
-  "CVE-2024-27199": {
-    "first_seen_in": "2024-023",
+  "CVE-2024-20719": {
+    "first_seen_in": "2024-022",
     "first_seen_date": null
   },
   "CVE-2024-27198": {
     "first_seen_in": "2024-023",
+    "first_seen_date": null
+  },
+  "CVE-2024-27199": {
+    "first_seen_in": "2024-023",
+    "first_seen_date": null
+  },
+  "CVE-2024-22252": {
+    "first_seen_in": "2024-024",
+    "first_seen_date": null
+  },
+  "CVE-2024-22253": {
+    "first_seen_in": "2024-024",
     "first_seen_date": null
   },
   "CVE-2024-22254": {
@@ -4215,28 +4223,28 @@
     "first_seen_in": "2024-024",
     "first_seen_date": null
   },
-  "CVE-2024-22253": {
-    "first_seen_in": "2024-024",
-    "first_seen_date": null
-  },
-  "CVE-2024-22252": {
-    "first_seen_in": "2024-024",
+  "CVE-2024-23296": {
+    "first_seen_in": "2024-025",
     "first_seen_date": null
   },
   "CVE-2024-23225": {
     "first_seen_in": "2024-025",
     "first_seen_date": null
   },
-  "CVE-2024-23296": {
-    "first_seen_in": "2024-025",
+  "CVE-2024-0199": {
+    "first_seen_in": "2024-026",
     "first_seen_date": null
   },
   "CVE-2024-1299": {
     "first_seen_in": "2024-026",
     "first_seen_date": null
   },
-  "CVE-2024-0199": {
-    "first_seen_in": "2024-026",
+  "CVE-2024-21411": {
+    "first_seen_in": "2024-027",
+    "first_seen_date": null
+  },
+  "CVE-2024-26199": {
+    "first_seen_in": "2024-027",
     "first_seen_date": null
   },
   "CVE-2024-21400": {
@@ -4247,23 +4255,15 @@
     "first_seen_in": "2024-027",
     "first_seen_date": null
   },
-  "CVE-2024-26199": {
-    "first_seen_in": "2024-027",
-    "first_seen_date": null
-  },
-  "CVE-2024-21411": {
-    "first_seen_in": "2024-027",
-    "first_seen_date": null
-  },
-  "CVE-2023-42790": {
-    "first_seen_in": "2024-028",
-    "first_seen_date": null
-  },
   "CVE-2023-42789": {
     "first_seen_in": "2024-028",
     "first_seen_date": null
   },
   "CVE-2023-48788": {
+    "first_seen_in": "2024-028",
+    "first_seen_date": null
+  },
+  "CVE-2023-42790": {
     "first_seen_in": "2024-028",
     "first_seen_date": null
   },
@@ -4283,7 +4283,11 @@
     "first_seen_in": "2024-030",
     "first_seen_date": null
   },
-  "CVE-2024-20311": {
+  "CVE-2024-20307": {
+    "first_seen_in": "2024-031",
+    "first_seen_date": null
+  },
+  "CVE-2024-20271": {
     "first_seen_in": "2024-031",
     "first_seen_date": null
   },
@@ -4295,11 +4299,7 @@
     "first_seen_in": "2024-031",
     "first_seen_date": null
   },
-  "CVE-2024-20307": {
-    "first_seen_in": "2024-031",
-    "first_seen_date": null
-  },
-  "CVE-2024-20271": {
+  "CVE-2024-20311": {
     "first_seen_in": "2024-031",
     "first_seen_date": null
   },
@@ -4311,19 +4311,19 @@
     "first_seen_in": "2024-032",
     "first_seen_date": null
   },
-  "CVE-2024-22052": {
-    "first_seen_in": "2024-033",
-    "first_seen_date": null
-  },
-  "CVE-2024-21894": {
-    "first_seen_in": "2024-033",
-    "first_seen_date": null
-  },
   "CVE-2024-22053": {
     "first_seen_in": "2024-033",
     "first_seen_date": null
   },
+  "CVE-2024-22052": {
+    "first_seen_in": "2024-033",
+    "first_seen_date": null
+  },
   "CVE-2024-22023": {
+    "first_seen_in": "2024-033",
+    "first_seen_date": null
+  },
+  "CVE-2024-21894": {
     "first_seen_in": "2024-033",
     "first_seen_date": null
   },
@@ -4339,11 +4339,11 @@
     "first_seen_in": "2024-035",
     "first_seen_date": null
   },
-  "CVE-2023-41677": {
+  "CVE-2024-31492": {
     "first_seen_in": "2024-036",
     "first_seen_date": null
   },
-  "CVE-2023-45588": {
+  "CVE-2023-41677": {
     "first_seen_in": "2024-036",
     "first_seen_date": null
   },
@@ -4351,7 +4351,7 @@
     "first_seen_in": "2024-036",
     "first_seen_date": null
   },
-  "CVE-2024-31492": {
+  "CVE-2023-45588": {
     "first_seen_in": "2024-036",
     "first_seen_date": null
   },
@@ -4359,11 +4359,7 @@
     "first_seen_in": "2024-037",
     "first_seen_date": null
   },
-  "CVE-2018-1000120": {
-    "first_seen_in": "2024-038",
-    "first_seen_date": null
-  },
-  "CVE-2020-8285": {
+  "CVE-2023-23914": {
     "first_seen_in": "2024-038",
     "first_seen_date": null
   },
@@ -4375,11 +4371,15 @@
     "first_seen_in": "2024-038",
     "first_seen_date": null
   },
-  "CVE-2018-1000122": {
+  "CVE-2020-8285": {
     "first_seen_in": "2024-038",
     "first_seen_date": null
   },
-  "CVE-2023-23914": {
+  "CVE-2018-1000120": {
+    "first_seen_in": "2024-038",
+    "first_seen_date": null
+  },
+  "CVE-2018-1000122": {
     "first_seen_in": "2024-038",
     "first_seen_date": null
   },
@@ -4387,11 +4387,11 @@
     "first_seen_in": "2024-039",
     "first_seen_date": null
   },
-  "CVE-2024-24996": {
+  "CVE-2024-29204": {
     "first_seen_in": "2024-041",
     "first_seen_date": null
   },
-  "CVE-2024-29204": {
+  "CVE-2024-24996": {
     "first_seen_in": "2024-041",
     "first_seen_date": null
   },
@@ -4415,11 +4415,7 @@
     "first_seen_in": "2024-043",
     "first_seen_date": null
   },
-  "CVE-2024-2886": {
-    "first_seen_in": "2024-044",
-    "first_seen_date": null
-  },
-  "CVE-2024-4761": {
+  "CVE-2024-3159": {
     "first_seen_in": "2024-044",
     "first_seen_date": null
   },
@@ -4427,15 +4423,19 @@
     "first_seen_in": "2024-044",
     "first_seen_date": null
   },
-  "CVE-2024-2887": {
+  "CVE-2024-4761": {
     "first_seen_in": "2024-044",
     "first_seen_date": null
   },
-  "CVE-2024-3159": {
+  "CVE-2024-2886": {
     "first_seen_in": "2024-044",
     "first_seen_date": null
   },
   "CVE-2024-4671": {
+    "first_seen_in": "2024-044",
+    "first_seen_date": null
+  },
+  "CVE-2024-2887": {
     "first_seen_in": "2024-044",
     "first_seen_date": null
   },
@@ -4451,7 +4451,7 @@
     "first_seen_in": "2024-045",
     "first_seen_date": null
   },
-  "CVE-2024-32002": {
+  "CVE-2024-32465": {
     "first_seen_in": "2024-046",
     "first_seen_date": null
   },
@@ -4459,12 +4459,16 @@
     "first_seen_in": "2024-046",
     "first_seen_date": null
   },
-  "CVE-2024-32465": {
+  "CVE-2024-32002": {
     "first_seen_in": "2024-046",
     "first_seen_date": null
   },
   "CVE-2024-4985": {
     "first_seen_in": "2024-047",
+    "first_seen_date": null
+  },
+  "CVE-2024-29850": {
+    "first_seen_in": "2024-048",
     "first_seen_date": null
   },
   "CVE-2024-29849": {
@@ -4475,16 +4479,8 @@
     "first_seen_in": "2024-048",
     "first_seen_date": null
   },
-  "CVE-2024-29850": {
-    "first_seen_in": "2024-048",
-    "first_seen_date": null
-  },
   "CVE-2024-27130": {
     "first_seen_in": "2024-049",
-    "first_seen_date": null
-  },
-  "CVE-2023-46806": {
-    "first_seen_in": "2024-050",
     "first_seen_date": null
   },
   "CVE-2023-46807": {
@@ -4492,6 +4488,10 @@
     "first_seen_date": null
   },
   "CVE-2024-22026": {
+    "first_seen_in": "2024-050",
+    "first_seen_date": null
+  },
+  "CVE-2023-46806": {
     "first_seen_in": "2024-050",
     "first_seen_date": null
   },
@@ -4511,15 +4511,11 @@
     "first_seen_in": "2024-054",
     "first_seen_date": null
   },
-  "CVE-2024-29004": {
-    "first_seen_in": "2024-055",
-    "first_seen_date": null
-  },
   "CVE-2024-28995": {
     "first_seen_in": "2024-055",
     "first_seen_date": null
   },
-  "CVE-2024-28996": {
+  "CVE-2024-29004": {
     "first_seen_in": "2024-055",
     "first_seen_date": null
   },
@@ -4527,19 +4523,23 @@
     "first_seen_in": "2024-055",
     "first_seen_date": null
   },
-  "CVE-2024-30103": {
-    "first_seen_in": "2024-056",
+  "CVE-2024-28996": {
+    "first_seen_in": "2024-055",
     "first_seen_date": null
   },
   "CVE-2024-30080": {
     "first_seen_in": "2024-056",
     "first_seen_date": null
   },
-  "CVE-2024-30078": {
+  "CVE-2023-50868": {
     "first_seen_in": "2024-056",
     "first_seen_date": null
   },
-  "CVE-2023-50868": {
+  "CVE-2024-30103": {
+    "first_seen_in": "2024-056",
+    "first_seen_date": null
+  },
+  "CVE-2024-30078": {
     "first_seen_in": "2024-056",
     "first_seen_date": null
   },
@@ -4555,7 +4555,7 @@
     "first_seen_in": "2024-059",
     "first_seen_date": null
   },
-  "CVE-2024-37079": {
+  "CVE-2024-37080": {
     "first_seen_in": "2024-060",
     "first_seen_date": null
   },
@@ -4563,7 +4563,7 @@
     "first_seen_in": "2024-060",
     "first_seen_date": null
   },
-  "CVE-2024-37080": {
+  "CVE-2024-37079": {
     "first_seen_in": "2024-060",
     "first_seen_date": null
   },
@@ -4571,11 +4571,11 @@
     "first_seen_in": "2024-061",
     "first_seen_date": null
   },
-  "CVE-2024-6101": {
+  "CVE-2024-6102": {
     "first_seen_in": "2024-062",
     "first_seen_date": null
   },
-  "CVE-2024-6102": {
+  "CVE-2024-6101": {
     "first_seen_in": "2024-062",
     "first_seen_date": null
   },
@@ -4591,14 +4591,6 @@
     "first_seen_in": "2024-063",
     "first_seen_date": null
   },
-  "CVE-2024-6323": {
-    "first_seen_in": "2024-064",
-    "first_seen_date": null
-  },
-  "CVE-2024-4901": {
-    "first_seen_in": "2024-064",
-    "first_seen_date": null
-  },
   "CVE-2024-5655": {
     "first_seen_in": "2024-064",
     "first_seen_date": null
@@ -4607,8 +4599,20 @@
     "first_seen_in": "2024-064",
     "first_seen_date": null
   },
+  "CVE-2024-6323": {
+    "first_seen_in": "2024-064",
+    "first_seen_date": null
+  },
+  "CVE-2024-4901": {
+    "first_seen_in": "2024-064",
+    "first_seen_date": null
+  },
   "CVE-2024-2973": {
     "first_seen_in": "2024-065",
+    "first_seen_date": null
+  },
+  "CVE-2006-5051": {
+    "first_seen_in": "2024-066",
     "first_seen_date": null
   },
   "CVE-2008-4109": {
@@ -4619,19 +4623,7 @@
     "first_seen_in": "2024-066",
     "first_seen_date": null
   },
-  "CVE-2006-5051": {
-    "first_seen_in": "2024-066",
-    "first_seen_date": null
-  },
-  "CVE-2024-37985": {
-    "first_seen_in": "2024-067",
-    "first_seen_date": null
-  },
   "CVE-2024-35264": {
-    "first_seen_in": "2024-067",
-    "first_seen_date": null
-  },
-  "CVE-2024-38112": {
     "first_seen_in": "2024-067",
     "first_seen_date": null
   },
@@ -4639,15 +4631,15 @@
     "first_seen_in": "2024-067",
     "first_seen_date": null
   },
-  "CVE-2024-38076": {
-    "first_seen_in": "2024-067",
-    "first_seen_date": null
-  },
   "CVE-2024-38023": {
     "first_seen_in": "2024-067",
     "first_seen_date": null
   },
-  "CVE-2024-38060": {
+  "CVE-2024-38077": {
+    "first_seen_in": "2024-067",
+    "first_seen_date": null
+  },
+  "CVE-2024-38076": {
     "first_seen_in": "2024-067",
     "first_seen_date": null
   },
@@ -4659,15 +4651,23 @@
     "first_seen_in": "2024-067",
     "first_seen_date": null
   },
-  "CVE-2024-38077": {
+  "CVE-2024-38060": {
     "first_seen_in": "2024-067",
     "first_seen_date": null
   },
-  "CVE-2024-36404": {
-    "first_seen_in": "2024-068",
+  "CVE-2024-38112": {
+    "first_seen_in": "2024-067",
+    "first_seen_date": null
+  },
+  "CVE-2024-37985": {
+    "first_seen_in": "2024-067",
     "first_seen_date": null
   },
   "CVE-2024-36401": {
+    "first_seen_in": "2024-068",
+    "first_seen_date": null
+  },
+  "CVE-2024-36404": {
     "first_seen_in": "2024-068",
     "first_seen_date": null
   },
@@ -4679,27 +4679,15 @@
     "first_seen_in": "2024-069",
     "first_seen_date": null
   },
-  "CVE-2024-20401": {
-    "first_seen_in": "2024-070",
-    "first_seen_date": null
-  },
   "CVE-2024-20419": {
     "first_seen_in": "2024-070",
     "first_seen_date": null
   },
-  "CVE-2024-23475": {
-    "first_seen_in": "2024-071",
+  "CVE-2024-20401": {
+    "first_seen_in": "2024-070",
     "first_seen_date": null
   },
-  "CVE-2024-23470": {
-    "first_seen_in": "2024-071",
-    "first_seen_date": null
-  },
-  "CVE-2024-23465": {
-    "first_seen_in": "2024-071",
-    "first_seen_date": null
-  },
-  "CVE-2024-23466": {
+  "CVE-2024-28074": {
     "first_seen_in": "2024-071",
     "first_seen_date": null
   },
@@ -4711,11 +4699,7 @@
     "first_seen_in": "2024-071",
     "first_seen_date": null
   },
-  "CVE-2024-23469": {
-    "first_seen_in": "2024-071",
-    "first_seen_date": null
-  },
-  "CVE-2024-28074": {
+  "CVE-2024-23465": {
     "first_seen_in": "2024-071",
     "first_seen_date": null
   },
@@ -4723,19 +4707,35 @@
     "first_seen_in": "2024-071",
     "first_seen_date": null
   },
-  "CVE-2024-36132": {
-    "first_seen_in": "2024-072",
+  "CVE-2024-23466": {
+    "first_seen_in": "2024-071",
+    "first_seen_date": null
+  },
+  "CVE-2024-23470": {
+    "first_seen_in": "2024-071",
+    "first_seen_date": null
+  },
+  "CVE-2024-23469": {
+    "first_seen_in": "2024-071",
+    "first_seen_date": null
+  },
+  "CVE-2024-23475": {
+    "first_seen_in": "2024-071",
     "first_seen_date": null
   },
   "CVE-2024-36131": {
     "first_seen_in": "2024-072",
     "first_seen_date": null
   },
-  "CVE-2024-34788": {
+  "CVE-2024-36132": {
     "first_seen_in": "2024-072",
     "first_seen_date": null
   },
   "CVE-2024-36130": {
+    "first_seen_in": "2024-072",
+    "first_seen_date": null
+  },
+  "CVE-2024-34788": {
     "first_seen_in": "2024-072",
     "first_seen_date": null
   },
@@ -4755,11 +4755,11 @@
     "first_seen_in": "2024-075",
     "first_seen_date": null
   },
-  "CVE-2024-24974": {
+  "CVE-2024-27903": {
     "first_seen_in": "2024-076",
     "first_seen_date": null
   },
-  "CVE-2024-27903": {
+  "CVE-2024-24974": {
     "first_seen_in": "2024-076",
     "first_seen_date": null
   },
@@ -4783,23 +4783,7 @@
     "first_seen_in": "2024-079",
     "first_seen_date": null
   },
-  "CVE-2024-38159": {
-    "first_seen_in": "2024-080",
-    "first_seen_date": null
-  },
-  "CVE-2024-38108": {
-    "first_seen_in": "2024-080",
-    "first_seen_date": null
-  },
-  "CVE-2024-38109": {
-    "first_seen_in": "2024-080",
-    "first_seen_date": null
-  },
-  "CVE-2024-38199": {
-    "first_seen_in": "2024-080",
-    "first_seen_date": null
-  },
-  "CVE-2024-38140": {
+  "CVE-2024-38160": {
     "first_seen_in": "2024-080",
     "first_seen_date": null
   },
@@ -4807,7 +4791,23 @@
     "first_seen_in": "2024-080",
     "first_seen_date": null
   },
-  "CVE-2024-38160": {
+  "CVE-2024-38159": {
+    "first_seen_in": "2024-080",
+    "first_seen_date": null
+  },
+  "CVE-2024-38199": {
+    "first_seen_in": "2024-080",
+    "first_seen_date": null
+  },
+  "CVE-2024-38108": {
+    "first_seen_in": "2024-080",
+    "first_seen_date": null
+  },
+  "CVE-2024-38140": {
+    "first_seen_in": "2024-080",
+    "first_seen_date": null
+  },
+  "CVE-2024-38109": {
     "first_seen_in": "2024-080",
     "first_seen_date": null
   },
@@ -4823,14 +4823,6 @@
     "first_seen_in": "2024-083",
     "first_seen_date": null
   },
-  "CVE-2024-39792": {
-    "first_seen_in": "2024-084",
-    "first_seen_date": null
-  },
-  "CVE-2024-39809": {
-    "first_seen_in": "2024-084",
-    "first_seen_date": null
-  },
   "CVE-2024-39778": {
     "first_seen_in": "2024-084",
     "first_seen_date": null
@@ -4839,11 +4831,27 @@
     "first_seen_in": "2024-084",
     "first_seen_date": null
   },
-  "CVE-2024-43428": {
+  "CVE-2024-39809": {
+    "first_seen_in": "2024-084",
+    "first_seen_date": null
+  },
+  "CVE-2024-39792": {
+    "first_seen_in": "2024-084",
+    "first_seen_date": null
+  },
+  "CVE-2024-43436": {
     "first_seen_in": "2024-085",
     "first_seen_date": null
   },
-  "CVE-2024-43431": {
+  "CVE-2024-43425": {
+    "first_seen_in": "2024-085",
+    "first_seen_date": null
+  },
+  "CVE-2024-43439": {
+    "first_seen_in": "2024-085",
+    "first_seen_date": null
+  },
+  "CVE-2024-43428": {
     "first_seen_in": "2024-085",
     "first_seen_date": null
   },
@@ -4855,15 +4863,7 @@
     "first_seen_in": "2024-085",
     "first_seen_date": null
   },
-  "CVE-2024-43436": {
-    "first_seen_in": "2024-085",
-    "first_seen_date": null
-  },
-  "CVE-2024-43439": {
-    "first_seen_in": "2024-085",
-    "first_seen_date": null
-  },
-  "CVE-2024-43425": {
+  "CVE-2024-43431": {
     "first_seen_in": "2024-085",
     "first_seen_date": null
   },
@@ -4895,10 +4895,6 @@
     "first_seen_in": "2024-092",
     "first_seen_date": null
   },
-  "CVE-2024-38226": {
-    "first_seen_in": "2024-093",
-    "first_seen_date": null
-  },
   "CVE-2024-38014": {
     "first_seen_in": "2024-093",
     "first_seen_date": null
@@ -4911,15 +4907,19 @@
     "first_seen_in": "2024-093",
     "first_seen_date": null
   },
-  "CVE-2024-32843": {
-    "first_seen_in": "2024-094",
-    "first_seen_date": null
-  },
-  "CVE-2024-32842": {
-    "first_seen_in": "2024-094",
+  "CVE-2024-38226": {
+    "first_seen_in": "2024-093",
     "first_seen_date": null
   },
   "CVE-2024-29847": {
+    "first_seen_in": "2024-094",
+    "first_seen_date": null
+  },
+  "CVE-2024-32845": {
+    "first_seen_in": "2024-094",
+    "first_seen_date": null
+  },
+  "CVE-2024-32843": {
     "first_seen_in": "2024-094",
     "first_seen_date": null
   },
@@ -4931,15 +4931,15 @@
     "first_seen_in": "2024-094",
     "first_seen_date": null
   },
-  "CVE-2024-34779": {
-    "first_seen_in": "2024-094",
-    "first_seen_date": null
-  },
   "CVE-2024-32846": {
     "first_seen_in": "2024-094",
     "first_seen_date": null
   },
-  "CVE-2024-32845": {
+  "CVE-2024-32842": {
+    "first_seen_in": "2024-094",
+    "first_seen_date": null
+  },
+  "CVE-2024-34779": {
     "first_seen_in": "2024-094",
     "first_seen_date": null
   },
@@ -4951,19 +4951,19 @@
     "first_seen_in": "2024-095",
     "first_seen_date": null
   },
-  "CVE-2024-8635": {
-    "first_seen_in": "2024-096",
-    "first_seen_date": null
-  },
-  "CVE-2024-8124": {
-    "first_seen_in": "2024-096",
-    "first_seen_date": null
-  },
   "CVE-2024-8640": {
     "first_seen_in": "2024-096",
     "first_seen_date": null
   },
+  "CVE-2024-8635": {
+    "first_seen_in": "2024-096",
+    "first_seen_date": null
+  },
   "CVE-2024-6678": {
+    "first_seen_in": "2024-096",
+    "first_seen_date": null
+  },
+  "CVE-2024-8124": {
     "first_seen_in": "2024-096",
     "first_seen_date": null
   },
@@ -5003,10 +5003,6 @@
     "first_seen_in": "2024-102",
     "first_seen_date": null
   },
-  "CVE-2024-47176": {
-    "first_seen_in": "2024-103",
-    "first_seen_date": null
-  },
   "CVE-2024-47177": {
     "first_seen_in": "2024-103",
     "first_seen_date": null
@@ -5015,12 +5011,12 @@
     "first_seen_in": "2024-103",
     "first_seen_date": null
   },
-  "CVE-2024-47175": {
+  "CVE-2024-47176": {
     "first_seen_in": "2024-103",
     "first_seen_date": null
   },
-  "CVE-2024-8785": {
-    "first_seen_in": "2024-105",
+  "CVE-2024-47175": {
+    "first_seen_in": "2024-103",
     "first_seen_date": null
   },
   "CVE-2024-46906": {
@@ -5031,7 +5027,15 @@
     "first_seen_in": "2024-105",
     "first_seen_date": null
   },
+  "CVE-2024-8785": {
+    "first_seen_in": "2024-105",
+    "first_seen_date": null
+  },
   "CVE-2024-46907": {
+    "first_seen_in": "2024-105",
+    "first_seen_date": null
+  },
+  "CVE-2024-46909": {
     "first_seen_in": "2024-105",
     "first_seen_date": null
   },
@@ -5039,8 +5043,8 @@
     "first_seen_in": "2024-105",
     "first_seen_date": null
   },
-  "CVE-2024-46909": {
-    "first_seen_in": "2024-105",
+  "CVE-2024-43573": {
+    "first_seen_in": "2024-106",
     "first_seen_date": null
   },
   "CVE-2024-43572": {
@@ -5052,10 +5056,6 @@
     "first_seen_date": null
   },
   "CVE-2024-6197": {
-    "first_seen_in": "2024-106",
-    "first_seen_date": null
-  },
-  "CVE-2024-43573": {
     "first_seen_in": "2024-106",
     "first_seen_date": null
   },
@@ -5075,7 +5075,7 @@
     "first_seen_in": "2024-108",
     "first_seen_date": null
   },
-  "CVE-2024-9464": {
+  "CVE-2024-9467": {
     "first_seen_in": "2024-108",
     "first_seen_date": null
   },
@@ -5083,12 +5083,8 @@
     "first_seen_in": "2024-108",
     "first_seen_date": null
   },
-  "CVE-2024-9467": {
+  "CVE-2024-9464": {
     "first_seen_in": "2024-108",
-    "first_seen_date": null
-  },
-  "CVE-2024-8977": {
-    "first_seen_in": "2024-109",
     "first_seen_date": null
   },
   "CVE-2024-9164": {
@@ -5099,12 +5095,12 @@
     "first_seen_in": "2024-109",
     "first_seen_date": null
   },
-  "CVE-2024-37404": {
-    "first_seen_in": "2024-110",
+  "CVE-2024-8977": {
+    "first_seen_in": "2024-109",
     "first_seen_date": null
   },
-  "CVE-2024-45732": {
-    "first_seen_in": "2024-111",
+  "CVE-2024-37404": {
+    "first_seen_in": "2024-110",
     "first_seen_date": null
   },
   "CVE-2024-45731": {
@@ -5112,6 +5108,10 @@
     "first_seen_date": null
   },
   "CVE-2024-45733": {
+    "first_seen_in": "2024-111",
+    "first_seen_date": null
+  },
+  "CVE-2024-45732": {
     "first_seen_in": "2024-111",
     "first_seen_date": null
   },
@@ -5139,7 +5139,7 @@
     "first_seen_in": "2024-116",
     "first_seen_date": null
   },
-  "CVE-2024-49039": {
+  "CVE-2024-49040": {
     "first_seen_in": "2024-116",
     "first_seen_date": null
   },
@@ -5147,15 +5147,15 @@
     "first_seen_in": "2024-116",
     "first_seen_date": null
   },
-  "CVE-2024-49040": {
+  "CVE-2024-49039": {
     "first_seen_in": "2024-116",
     "first_seen_date": null
   },
-  "CVE-2024-0012": {
+  "CVE-2024-9474": {
     "first_seen_in": "2024-117",
     "first_seen_date": null
   },
-  "CVE-2024-9474": {
+  "CVE-2024-0012": {
     "first_seen_in": "2024-117",
     "first_seen_date": null
   },
@@ -5163,15 +5163,7 @@
     "first_seen_in": "2024-118",
     "first_seen_date": null
   },
-  "CVE-2024-11634": {
-    "first_seen_in": "2024-119",
-    "first_seen_date": null
-  },
   "CVE-2024-11633": {
-    "first_seen_in": "2024-119",
-    "first_seen_date": null
-  },
-  "CVE-2024-8540": {
     "first_seen_in": "2024-119",
     "first_seen_date": null
   },
@@ -5179,11 +5171,19 @@
     "first_seen_in": "2024-119",
     "first_seen_date": null
   },
-  "CVE-2024-11639": {
+  "CVE-2024-8540": {
     "first_seen_in": "2024-119",
     "first_seen_date": null
   },
   "CVE-2024-11773": {
+    "first_seen_in": "2024-119",
+    "first_seen_date": null
+  },
+  "CVE-2024-11634": {
+    "first_seen_in": "2024-119",
+    "first_seen_date": null
+  },
+  "CVE-2024-11639": {
     "first_seen_in": "2024-119",
     "first_seen_date": null
   },
@@ -5207,15 +5207,11 @@
     "first_seen_in": "2025-001",
     "first_seen_date": null
   },
-  "CVE-2025-21334": {
-    "first_seen_in": "2025-002",
-    "first_seen_date": null
-  },
   "CVE-2025-21335": {
     "first_seen_in": "2025-002",
     "first_seen_date": null
   },
-  "CVE-2025-21395": {
+  "CVE-2025-21275": {
     "first_seen_in": "2025-002",
     "first_seen_date": null
   },
@@ -5223,7 +5219,15 @@
     "first_seen_in": "2025-002",
     "first_seen_date": null
   },
-  "CVE-2025-21362": {
+  "CVE-2025-21309": {
+    "first_seen_in": "2025-002",
+    "first_seen_date": null
+  },
+  "CVE-2025-21308": {
+    "first_seen_in": "2025-002",
+    "first_seen_date": null
+  },
+  "CVE-2025-21334": {
     "first_seen_in": "2025-002",
     "first_seen_date": null
   },
@@ -5231,7 +5235,23 @@
     "first_seen_in": "2025-002",
     "first_seen_date": null
   },
-  "CVE-2025-21309": {
+  "CVE-2025-21186": {
+    "first_seen_in": "2025-002",
+    "first_seen_date": null
+  },
+  "CVE-2025-21362": {
+    "first_seen_in": "2025-002",
+    "first_seen_date": null
+  },
+  "CVE-2025-21395": {
+    "first_seen_in": "2025-002",
+    "first_seen_date": null
+  },
+  "CVE-2025-21307": {
+    "first_seen_in": "2025-002",
+    "first_seen_date": null
+  },
+  "CVE-2025-21354": {
     "first_seen_in": "2025-002",
     "first_seen_date": null
   },
@@ -5243,18 +5263,6 @@
     "first_seen_in": "2025-002",
     "first_seen_date": null
   },
-  "CVE-2025-21275": {
-    "first_seen_in": "2025-002",
-    "first_seen_date": null
-  },
-  "CVE-2025-21308": {
-    "first_seen_in": "2025-002",
-    "first_seen_date": null
-  },
-  "CVE-2025-21307": {
-    "first_seen_in": "2025-002",
-    "first_seen_date": null
-  },
   "CVE-2025-21333": {
     "first_seen_in": "2025-002",
     "first_seen_date": null
@@ -5263,19 +5271,11 @@
     "first_seen_in": "2025-002",
     "first_seen_date": null
   },
-  "CVE-2025-21354": {
-    "first_seen_in": "2025-002",
-    "first_seen_date": null
-  },
-  "CVE-2025-21186": {
-    "first_seen_in": "2025-002",
-    "first_seen_date": null
-  },
-  "CVE-2024-55591": {
+  "CVE-2023-37936": {
     "first_seen_in": "2025-003",
     "first_seen_date": null
   },
-  "CVE-2023-37936": {
+  "CVE-2024-55591": {
     "first_seen_in": "2025-003",
     "first_seen_date": null
   },
@@ -5283,20 +5283,16 @@
     "first_seen_in": "2025-004",
     "first_seen_date": null
   },
-  "CVE-2025-22224": {
+  "CVE-2025-22226": {
     "first_seen_in": "2025-005",
     "first_seen_date": null
   },
-  "CVE-2025-22226": {
+  "CVE-2025-22224": {
     "first_seen_in": "2025-005",
     "first_seen_date": null
   },
   "CVE-2025-22225": {
     "first_seen_in": "2025-005",
-    "first_seen_date": null
-  },
-  "CVE-2025-20051": {
-    "first_seen_in": "2025-006",
     "first_seen_date": null
   },
   "CVE-2025-25279": {
@@ -5307,8 +5303,16 @@
     "first_seen_in": "2025-006",
     "first_seen_date": null
   },
+  "CVE-2025-20051": {
+    "first_seen_in": "2025-006",
+    "first_seen_date": null
+  },
   "CVE-2025-25012": {
     "first_seen_in": "2025-007",
+    "first_seen_date": null
+  },
+  "CVE-2024-45324": {
+    "first_seen_in": "2025-008",
     "first_seen_date": null
   },
   "CVE-2023-48790": {
@@ -5319,20 +5323,20 @@
     "first_seen_in": "2025-008",
     "first_seen_date": null
   },
-  "CVE-2024-45324": {
-    "first_seen_in": "2025-008",
+  "CVE-2025-24045": {
+    "first_seen_in": "2025-009",
     "first_seen_date": null
   },
   "CVE-2025-24035": {
     "first_seen_in": "2025-009",
     "first_seen_date": null
   },
-  "CVE-2025-24045": {
-    "first_seen_in": "2025-009",
-    "first_seen_date": null
-  },
   "CVE-2025-20138": {
     "first_seen_in": "2025-010",
+    "first_seen_date": null
+  },
+  "CVE-2025-27407": {
+    "first_seen_in": "2025-011",
     "first_seen_date": null
   },
   "CVE-2025-25292": {
@@ -5343,11 +5347,7 @@
     "first_seen_in": "2025-011",
     "first_seen_date": null
   },
-  "CVE-2025-27407": {
-    "first_seen_in": "2025-011",
-    "first_seen_date": null
-  },
-  "CVE-2025-1097": {
+  "CVE-2025-1098": {
     "first_seen_in": "2025-012",
     "first_seen_date": null
   },
@@ -5355,7 +5355,7 @@
     "first_seen_in": "2025-012",
     "first_seen_date": null
   },
-  "CVE-2025-1098": {
+  "CVE-2025-1097": {
     "first_seen_in": "2025-012",
     "first_seen_date": null
   },
@@ -5371,11 +5371,11 @@
     "first_seen_in": "2025-014",
     "first_seen_date": null
   },
-  "CVE-2025-31161": {
+  "CVE-2025-2825": {
     "first_seen_in": "2025-015",
     "first_seen_date": null
   },
-  "CVE-2025-2825": {
+  "CVE-2025-31161": {
     "first_seen_in": "2025-015",
     "first_seen_date": null
   },
@@ -5383,7 +5383,7 @@
     "first_seen_in": "2025-016",
     "first_seen_date": null
   },
-  "CVE-2025-29791": {
+  "CVE-2025-26670": {
     "first_seen_in": "2025-017",
     "first_seen_date": null
   },
@@ -5391,23 +5391,7 @@
     "first_seen_in": "2025-017",
     "first_seen_date": null
   },
-  "CVE-2025-26663": {
-    "first_seen_in": "2025-017",
-    "first_seen_date": null
-  },
-  "CVE-2025-29824": {
-    "first_seen_in": "2025-017",
-    "first_seen_date": null
-  },
-  "CVE-2025-26670": {
-    "first_seen_in": "2025-017",
-    "first_seen_date": null
-  },
-  "CVE-2025-27482": {
-    "first_seen_in": "2025-017",
-    "first_seen_date": null
-  },
-  "CVE-2025-27748": {
+  "CVE-2025-27480": {
     "first_seen_in": "2025-017",
     "first_seen_date": null
   },
@@ -5415,11 +5399,27 @@
     "first_seen_in": "2025-017",
     "first_seen_date": null
   },
-  "CVE-2025-27480": {
+  "CVE-2025-26663": {
+    "first_seen_in": "2025-017",
+    "first_seen_date": null
+  },
+  "CVE-2025-27482": {
+    "first_seen_in": "2025-017",
+    "first_seen_date": null
+  },
+  "CVE-2025-29791": {
+    "first_seen_in": "2025-017",
+    "first_seen_date": null
+  },
+  "CVE-2025-27748": {
     "first_seen_in": "2025-017",
     "first_seen_date": null
   },
   "CVE-2025-27752": {
+    "first_seen_in": "2025-017",
+    "first_seen_date": null
+  },
+  "CVE-2025-29824": {
     "first_seen_in": "2025-017",
     "first_seen_date": null
   },
@@ -5439,6 +5439,10 @@
     "first_seen_in": "2025-019",
     "first_seen_date": null
   },
+  "CVE-2025-4278": {
+    "first_seen_in": "2025-020",
+    "first_seen_date": null
+  },
   "CVE-2025-0673": {
     "first_seen_in": "2025-020",
     "first_seen_date": null
@@ -5451,15 +5455,11 @@
     "first_seen_in": "2025-020",
     "first_seen_date": null
   },
-  "CVE-2025-4278": {
-    "first_seen_in": "2025-020",
-    "first_seen_date": null
-  },
-  "CVE-2025-23121": {
+  "CVE-2025-23120": {
     "first_seen_in": "2025-021",
     "first_seen_date": null
   },
-  "CVE-2025-23120": {
+  "CVE-2025-23121": {
     "first_seen_in": "2025-021",
     "first_seen_date": null
   },
@@ -5483,6 +5483,10 @@
     "first_seen_in": "2025-024",
     "first_seen_date": null
   },
+  "CVE-2025-20281": {
+    "first_seen_in": "2025-025",
+    "first_seen_date": null
+  },
   "CVE-2025-20337": {
     "first_seen_in": "2025-025",
     "first_seen_date": null
@@ -5491,8 +5495,8 @@
     "first_seen_in": "2025-025",
     "first_seen_date": null
   },
-  "CVE-2025-20281": {
-    "first_seen_in": "2025-025",
+  "CVE-2025-41238": {
+    "first_seen_in": "2025-026",
     "first_seen_date": null
   },
   "CVE-2025-41236": {
@@ -5503,19 +5507,15 @@
     "first_seen_in": "2025-026",
     "first_seen_date": null
   },
-  "CVE-2025-41238": {
-    "first_seen_in": "2025-026",
-    "first_seen_date": null
-  },
   "CVE-2025-53770": {
     "first_seen_in": "2025-027",
     "first_seen_date": null
   },
-  "CVE-2025-53771": {
+  "CVE-2025-49706": {
     "first_seen_in": "2025-027",
     "first_seen_date": null
   },
-  "CVE-2025-49706": {
+  "CVE-2025-53771": {
     "first_seen_in": "2025-027",
     "first_seen_date": null
   },
@@ -5527,7 +5527,7 @@
     "first_seen_in": "2025-030",
     "first_seen_date": null
   },
-  "CVE-2024-26009": {
+  "CVE-2025-52970": {
     "first_seen_in": "2025-031",
     "first_seen_date": null
   },
@@ -5535,43 +5535,15 @@
     "first_seen_in": "2025-031",
     "first_seen_date": null
   },
-  "CVE-2025-52970": {
+  "CVE-2024-26009": {
     "first_seen_in": "2025-031",
-    "first_seen_date": null
-  },
-  "CVE-2025-50177": {
-    "first_seen_in": "2025-032",
-    "first_seen_date": null
-  },
-  "CVE-2025-53731": {
-    "first_seen_in": "2025-032",
-    "first_seen_date": null
-  },
-  "CVE-2025-53740": {
-    "first_seen_in": "2025-032",
     "first_seen_date": null
   },
   "CVE-2025-50165": {
     "first_seen_in": "2025-032",
     "first_seen_date": null
   },
-  "CVE-2025-53766": {
-    "first_seen_in": "2025-032",
-    "first_seen_date": null
-  },
-  "CVE-2025-53784": {
-    "first_seen_in": "2025-032",
-    "first_seen_date": null
-  },
-  "CVE-2025-50176": {
-    "first_seen_in": "2025-032",
-    "first_seen_date": null
-  },
-  "CVE-2025-48807": {
-    "first_seen_in": "2025-032",
-    "first_seen_date": null
-  },
-  "CVE-2025-53733": {
+  "CVE-2025-50177": {
     "first_seen_in": "2025-032",
     "first_seen_date": null
   },
@@ -5579,11 +5551,39 @@
     "first_seen_in": "2025-032",
     "first_seen_date": null
   },
-  "CVE-2025-7775": {
-    "first_seen_in": "2025-033",
+  "CVE-2025-53784": {
+    "first_seen_in": "2025-032",
+    "first_seen_date": null
+  },
+  "CVE-2025-53766": {
+    "first_seen_in": "2025-032",
+    "first_seen_date": null
+  },
+  "CVE-2025-48807": {
+    "first_seen_in": "2025-032",
+    "first_seen_date": null
+  },
+  "CVE-2025-53731": {
+    "first_seen_in": "2025-032",
+    "first_seen_date": null
+  },
+  "CVE-2025-53733": {
+    "first_seen_in": "2025-032",
+    "first_seen_date": null
+  },
+  "CVE-2025-50176": {
+    "first_seen_in": "2025-032",
+    "first_seen_date": null
+  },
+  "CVE-2025-53740": {
+    "first_seen_in": "2025-032",
     "first_seen_date": null
   },
   "CVE-2025-8424": {
+    "first_seen_in": "2025-033",
+    "first_seen_date": null
+  },
+  "CVE-2025-7775": {
     "first_seen_in": "2025-033",
     "first_seen_date": null
   },
@@ -5611,10 +5611,6 @@
     "first_seen_in": "2025-036",
     "first_seen_date": null
   },
-  "CVE-2025-61955": {
-    "first_seen_in": "2025-037",
-    "first_seen_date": null
-  },
   "CVE-2025-57780": {
     "first_seen_in": "2025-037",
     "first_seen_date": null
@@ -5623,11 +5619,15 @@
     "first_seen_in": "2025-037",
     "first_seen_date": null
   },
-  "CVE-2025-48983": {
-    "first_seen_in": "2025-038",
+  "CVE-2025-61955": {
+    "first_seen_in": "2025-037",
     "first_seen_date": null
   },
   "CVE-2025-48982": {
+    "first_seen_in": "2025-038",
+    "first_seen_date": null
+  },
+  "CVE-2025-48983": {
     "first_seen_in": "2025-038",
     "first_seen_date": null
   },
