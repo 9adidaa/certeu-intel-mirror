@@ -31,7 +31,7 @@ Cette documentation a pour objectif de fournir une référence technique sur les
 ---
 
 <!-- STATUS:START -->
-Last CI success: 2026-08-27 04:09 UTC
+Last CI success: 2026-08-28 06:26 UTC
 
 ### Validation
 | Check | Status |
